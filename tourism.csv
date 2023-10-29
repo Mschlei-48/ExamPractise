@@ -1,0 +1,2501 @@
+Date,Location,Number_of_Visitors
+2019-01-01 00:00:00.000000000,Kimberley Museum,3970
+2019-01-01 00:00:00.000000000,McGregor Museum,4278
+2019-01-01 00:00:00.000000000,William Humphreys Art Gallery,4354
+2019-01-01 00:00:00.000000000,Magersfontein Battlefield,5956
+2019-01-01 00:00:00.000000000,Ghost Tours & Historical Walks,5450
+2019-01-03 22:16:06.733466933,Kimberley Museum,3811
+2019-01-03 22:16:06.733466933,McGregor Museum,3656
+2019-01-03 22:16:06.733466933,William Humphreys Art Gallery,8528
+2019-01-03 22:16:06.733466933,Magersfontein Battlefield,4474
+2019-01-03 22:16:06.733466933,Ghost Tours & Historical Walks,4740
+2019-01-06 20:32:13.466933867,Kimberley Museum,4707
+2019-01-06 20:32:13.466933867,McGregor Museum,5426
+2019-01-06 20:32:13.466933867,William Humphreys Art Gallery,6311
+2019-01-06 20:32:13.466933867,Magersfontein Battlefield,3641
+2019-01-06 20:32:13.466933867,Ghost Tours & Historical Walks,6049
+2019-01-09 18:48:20.200400801,Kimberley Museum,6195
+2019-01-09 18:48:20.200400801,McGregor Museum,5685
+2019-01-09 18:48:20.200400801,William Humphreys Art Gallery,4391
+2019-01-09 18:48:20.200400801,Magersfontein Battlefield,4279
+2019-01-09 18:48:20.200400801,Ghost Tours & Historical Walks,7263
+2019-01-12 17:04:26.933867735,Kimberley Museum,2558
+2019-01-12 17:04:26.933867735,McGregor Museum,3961
+2019-01-12 17:04:26.933867735,William Humphreys Art Gallery,7584
+2019-01-12 17:04:26.933867735,Magersfontein Battlefield,3677
+2019-01-12 17:04:26.933867735,Ghost Tours & Historical Walks,5705
+2019-01-15 15:20:33.667334669,Kimberley Museum,4209
+2019-01-15 15:20:33.667334669,McGregor Museum,4692
+2019-01-15 15:20:33.667334669,William Humphreys Art Gallery,5404
+2019-01-15 15:20:33.667334669,Magersfontein Battlefield,4102
+2019-01-15 15:20:33.667334669,Ghost Tours & Historical Walks,5076
+2019-01-18 13:36:40.400801603,Kimberley Museum,4665
+2019-01-18 13:36:40.400801603,McGregor Museum,5588
+2019-01-18 13:36:40.400801603,William Humphreys Art Gallery,6020
+2019-01-18 13:36:40.400801603,Magersfontein Battlefield,3240
+2019-01-18 13:36:40.400801603,Ghost Tours & Historical Walks,5283
+2019-01-21 11:52:47.134268537,Kimberley Museum,5193
+2019-01-21 11:52:47.134268537,McGregor Museum,3858
+2019-01-21 11:52:47.134268537,William Humphreys Art Gallery,5534
+2019-01-21 11:52:47.134268537,Magersfontein Battlefield,4469
+2019-01-21 11:52:47.134268537,Ghost Tours & Historical Walks,5899
+2019-01-24 10:08:53.867735471,Kimberley Museum,5557
+2019-01-24 10:08:53.867735471,McGregor Museum,8552
+2019-01-24 10:08:53.867735471,William Humphreys Art Gallery,3507
+2019-01-24 10:08:53.867735471,Magersfontein Battlefield,5589
+2019-01-24 10:08:53.867735471,Ghost Tours & Historical Walks,4760
+2019-01-27 08:25:00.601202405,Kimberley Museum,5253
+2019-01-27 08:25:00.601202405,McGregor Museum,5094
+2019-01-27 08:25:00.601202405,William Humphreys Art Gallery,4910
+2019-01-27 08:25:00.601202405,Magersfontein Battlefield,5709
+2019-01-27 08:25:00.601202405,Ghost Tours & Historical Walks,4723
+2019-01-30 06:41:07.334669339,Kimberley Museum,4651
+2019-01-30 06:41:07.334669339,McGregor Museum,5686
+2019-01-30 06:41:07.334669339,William Humphreys Art Gallery,7247
+2019-01-30 06:41:07.334669339,Magersfontein Battlefield,4220
+2019-01-30 06:41:07.334669339,Ghost Tours & Historical Walks,4305
+2019-02-02 04:57:14.068136272,Kimberley Museum,4698
+2019-02-02 04:57:14.068136272,McGregor Museum,4197
+2019-02-02 04:57:14.068136272,William Humphreys Art Gallery,4332
+2019-02-02 04:57:14.068136272,Magersfontein Battlefield,4646
+2019-02-02 04:57:14.068136272,Ghost Tours & Historical Walks,4594
+2019-02-05 03:13:20.801603206,Kimberley Museum,4716
+2019-02-05 03:13:20.801603206,McGregor Museum,4523
+2019-02-05 03:13:20.801603206,William Humphreys Art Gallery,3331
+2019-02-05 03:13:20.801603206,Magersfontein Battlefield,5856
+2019-02-05 03:13:20.801603206,Ghost Tours & Historical Walks,4253
+2019-02-08 01:29:27.535070140,Kimberley Museum,3557
+2019-02-08 01:29:27.535070140,McGregor Museum,3235
+2019-02-08 01:29:27.535070140,William Humphreys Art Gallery,4182
+2019-02-08 01:29:27.535070140,Magersfontein Battlefield,5711
+2019-02-08 01:29:27.535070140,Ghost Tours & Historical Walks,2094
+2019-02-10 23:45:34.268537074,Kimberley Museum,4779
+2019-02-10 23:45:34.268537074,McGregor Museum,8441
+2019-02-10 23:45:34.268537074,William Humphreys Art Gallery,3823
+2019-02-10 23:45:34.268537074,Magersfontein Battlefield,5269
+2019-02-10 23:45:34.268537074,Ghost Tours & Historical Walks,6973
+2019-02-13 22:01:41.002004008,Kimberley Museum,7600
+2019-02-13 22:01:41.002004008,McGregor Museum,4922
+2019-02-13 22:01:41.002004008,William Humphreys Art Gallery,3924
+2019-02-13 22:01:41.002004008,Magersfontein Battlefield,7834
+2019-02-13 22:01:41.002004008,Ghost Tours & Historical Walks,6996
+2019-02-16 20:17:47.735470942,Kimberley Museum,3133
+2019-02-16 20:17:47.735470942,McGregor Museum,5358
+2019-02-16 20:17:47.735470942,William Humphreys Art Gallery,4626
+2019-02-16 20:17:47.735470942,Magersfontein Battlefield,8462
+2019-02-16 20:17:47.735470942,Ghost Tours & Historical Walks,3542
+2019-02-19 18:33:54.468937876,Kimberley Museum,3907
+2019-02-19 18:33:54.468937876,McGregor Museum,7369
+2019-02-19 18:33:54.468937876,William Humphreys Art Gallery,7278
+2019-02-19 18:33:54.468937876,Magersfontein Battlefield,3555
+2019-02-19 18:33:54.468937876,Ghost Tours & Historical Walks,4108
+2019-02-22 16:50:01.202404810,Kimberley Museum,6901
+2019-02-22 16:50:01.202404810,McGregor Museum,5093
+2019-02-22 16:50:01.202404810,William Humphreys Art Gallery,4873
+2019-02-22 16:50:01.202404810,Magersfontein Battlefield,6212
+2019-02-22 16:50:01.202404810,Ghost Tours & Historical Walks,5170
+2019-02-25 15:06:07.935871744,Kimberley Museum,3924
+2019-02-25 15:06:07.935871744,McGregor Museum,5907
+2019-02-25 15:06:07.935871744,William Humphreys Art Gallery,6408
+2019-02-25 15:06:07.935871744,Magersfontein Battlefield,4073
+2019-02-25 15:06:07.935871744,Ghost Tours & Historical Walks,6562
+2019-02-28 13:22:14.669338678,Kimberley Museum,4164
+2019-02-28 13:22:14.669338678,McGregor Museum,3515
+2019-02-28 13:22:14.669338678,William Humphreys Art Gallery,4267
+2019-02-28 13:22:14.669338678,Magersfontein Battlefield,4018
+2019-02-28 13:22:14.669338678,Ghost Tours & Historical Walks,5658
+2019-03-03 11:38:21.402805611,Kimberley Museum,5628
+2019-03-03 11:38:21.402805611,McGregor Museum,4209
+2019-03-03 11:38:21.402805611,William Humphreys Art Gallery,5679
+2019-03-03 11:38:21.402805611,Magersfontein Battlefield,3829
+2019-03-03 11:38:21.402805611,Ghost Tours & Historical Walks,3049
+2019-03-06 09:54:28.136272545,Kimberley Museum,5135
+2019-03-06 09:54:28.136272545,McGregor Museum,3813
+2019-03-06 09:54:28.136272545,William Humphreys Art Gallery,5472
+2019-03-06 09:54:28.136272545,Magersfontein Battlefield,6748
+2019-03-06 09:54:28.136272545,Ghost Tours & Historical Walks,3728
+2019-03-09 08:10:34.869739479,Kimberley Museum,5444
+2019-03-09 08:10:34.869739479,McGregor Museum,1878
+2019-03-09 08:10:34.869739479,William Humphreys Art Gallery,4602
+2019-03-09 08:10:34.869739479,Magersfontein Battlefield,6266
+2019-03-09 08:10:34.869739479,Ghost Tours & Historical Walks,2550
+2019-03-12 06:26:41.603206413,Kimberley Museum,6512
+2019-03-12 06:26:41.603206413,McGregor Museum,3996
+2019-03-12 06:26:41.603206413,William Humphreys Art Gallery,3784
+2019-03-12 06:26:41.603206413,Magersfontein Battlefield,7615
+2019-03-12 06:26:41.603206413,Ghost Tours & Historical Walks,4829
+2019-03-15 04:42:48.336673347,Kimberley Museum,4543
+2019-03-15 04:42:48.336673347,McGregor Museum,5611
+2019-03-15 04:42:48.336673347,William Humphreys Art Gallery,3459
+2019-03-15 04:42:48.336673347,Magersfontein Battlefield,5183
+2019-03-15 04:42:48.336673347,Ghost Tours & Historical Walks,4833
+2019-03-18 02:58:55.070140281,Kimberley Museum,5111
+2019-03-18 02:58:55.070140281,McGregor Museum,4170
+2019-03-18 02:58:55.070140281,William Humphreys Art Gallery,7136
+2019-03-18 02:58:55.070140281,Magersfontein Battlefield,5755
+2019-03-18 02:58:55.070140281,Ghost Tours & Historical Walks,5600
+2019-03-21 01:15:01.803607215,Kimberley Museum,6082
+2019-03-21 01:15:01.803607215,McGregor Museum,5443
+2019-03-21 01:15:01.803607215,William Humphreys Art Gallery,6836
+2019-03-21 01:15:01.803607215,Magersfontein Battlefield,4278
+2019-03-21 01:15:01.803607215,Ghost Tours & Historical Walks,5036
+2019-03-23 23:31:08.537074148,Kimberley Museum,5954
+2019-03-23 23:31:08.537074148,McGregor Museum,5427
+2019-03-23 23:31:08.537074148,William Humphreys Art Gallery,7474
+2019-03-23 23:31:08.537074148,Magersfontein Battlefield,5713
+2019-03-23 23:31:08.537074148,Ghost Tours & Historical Walks,3846
+2019-03-26 21:47:15.270541082,Kimberley Museum,4574
+2019-03-26 21:47:15.270541082,McGregor Museum,4508
+2019-03-26 21:47:15.270541082,William Humphreys Art Gallery,6239
+2019-03-26 21:47:15.270541082,Magersfontein Battlefield,5760
+2019-03-26 21:47:15.270541082,Ghost Tours & Historical Walks,5438
+2019-03-29 20:03:22.004008016,Kimberley Museum,8042
+2019-03-29 20:03:22.004008016,McGregor Museum,5132
+2019-03-29 20:03:22.004008016,William Humphreys Art Gallery,4510
+2019-03-29 20:03:22.004008016,Magersfontein Battlefield,7699
+2019-03-29 20:03:22.004008016,Ghost Tours & Historical Walks,5123
+2019-04-01 18:19:28.737474950,Kimberley Museum,3913
+2019-04-01 18:19:28.737474950,McGregor Museum,3673
+2019-04-01 18:19:28.737474950,William Humphreys Art Gallery,4937
+2019-04-01 18:19:28.737474950,Magersfontein Battlefield,5346
+2019-04-01 18:19:28.737474950,Ghost Tours & Historical Walks,5109
+2019-04-04 16:35:35.470941884,Kimberley Museum,5401
+2019-04-04 16:35:35.470941884,McGregor Museum,5163
+2019-04-04 16:35:35.470941884,William Humphreys Art Gallery,4726
+2019-04-04 16:35:35.470941884,Magersfontein Battlefield,2774
+2019-04-04 16:35:35.470941884,Ghost Tours & Historical Walks,3579
+2019-04-07 14:51:42.204408818,Kimberley Museum,4190
+2019-04-07 14:51:42.204408818,McGregor Museum,5796
+2019-04-07 14:51:42.204408818,William Humphreys Art Gallery,4497
+2019-04-07 14:51:42.204408818,Magersfontein Battlefield,3623
+2019-04-07 14:51:42.204408818,Ghost Tours & Historical Walks,4933
+2019-04-10 13:07:48.937875752,Kimberley Museum,2522
+2019-04-10 13:07:48.937875752,McGregor Museum,7157
+2019-04-10 13:07:48.937875752,William Humphreys Art Gallery,4851
+2019-04-10 13:07:48.937875752,Magersfontein Battlefield,3995
+2019-04-10 13:07:48.937875752,Ghost Tours & Historical Walks,3436
+2019-04-13 11:23:55.671342686,Kimberley Museum,5281
+2019-04-13 11:23:55.671342686,McGregor Museum,5516
+2019-04-13 11:23:55.671342686,William Humphreys Art Gallery,6387
+2019-04-13 11:23:55.671342686,Magersfontein Battlefield,6412
+2019-04-13 11:23:55.671342686,Ghost Tours & Historical Walks,4712
+2019-04-16 09:40:02.404809620,Kimberley Museum,4650
+2019-04-16 09:40:02.404809620,McGregor Museum,3958
+2019-04-16 09:40:02.404809620,William Humphreys Art Gallery,5464
+2019-04-16 09:40:02.404809620,Magersfontein Battlefield,3230
+2019-04-16 09:40:02.404809620,Ghost Tours & Historical Walks,5779
+2019-04-19 07:56:09.138276554,Kimberley Museum,6468
+2019-04-19 07:56:09.138276554,McGregor Museum,4613
+2019-04-19 07:56:09.138276554,William Humphreys Art Gallery,3495
+2019-04-19 07:56:09.138276554,Magersfontein Battlefield,5640
+2019-04-19 07:56:09.138276554,Ghost Tours & Historical Walks,6556
+2019-04-22 06:12:15.871743488,Kimberley Museum,3980
+2019-04-22 06:12:15.871743488,McGregor Museum,4796
+2019-04-22 06:12:15.871743488,William Humphreys Art Gallery,4034
+2019-04-22 06:12:15.871743488,Magersfontein Battlefield,2887
+2019-04-22 06:12:15.871743488,Ghost Tours & Historical Walks,3684
+2019-04-25 04:28:22.605210422,Kimberley Museum,5089
+2019-04-25 04:28:22.605210422,McGregor Museum,5310
+2019-04-25 04:28:22.605210422,William Humphreys Art Gallery,3751
+2019-04-25 04:28:22.605210422,Magersfontein Battlefield,3019
+2019-04-25 04:28:22.605210422,Ghost Tours & Historical Walks,2277
+2019-04-28 02:44:29.338677356,Kimberley Museum,4392
+2019-04-28 02:44:29.338677356,McGregor Museum,5406
+2019-04-28 02:44:29.338677356,William Humphreys Art Gallery,3154
+2019-04-28 02:44:29.338677356,Magersfontein Battlefield,4609
+2019-04-28 02:44:29.338677356,Ghost Tours & Historical Walks,4794
+2019-05-01 01:00:36.072144288,Kimberley Museum,5297
+2019-05-01 01:00:36.072144288,McGregor Museum,3792
+2019-05-01 01:00:36.072144288,William Humphreys Art Gallery,6220
+2019-05-01 01:00:36.072144288,Magersfontein Battlefield,5615
+2019-05-01 01:00:36.072144288,Ghost Tours & Historical Walks,6539
+2019-05-03 23:16:42.805611222,Kimberley Museum,3215
+2019-05-03 23:16:42.805611222,McGregor Museum,5337
+2019-05-03 23:16:42.805611222,William Humphreys Art Gallery,3906
+2019-05-03 23:16:42.805611222,Magersfontein Battlefield,4562
+2019-05-03 23:16:42.805611222,Ghost Tours & Historical Walks,5604
+2019-05-06 21:32:49.539078156,Kimberley Museum,3605
+2019-05-06 21:32:49.539078156,McGregor Museum,4550
+2019-05-06 21:32:49.539078156,William Humphreys Art Gallery,6298
+2019-05-06 21:32:49.539078156,Magersfontein Battlefield,5595
+2019-05-06 21:32:49.539078156,Ghost Tours & Historical Walks,3513
+2019-05-09 19:48:56.272545090,Kimberley Museum,4384
+2019-05-09 19:48:56.272545090,McGregor Museum,3888
+2019-05-09 19:48:56.272545090,William Humphreys Art Gallery,2758
+2019-05-09 19:48:56.272545090,Magersfontein Battlefield,5206
+2019-05-09 19:48:56.272545090,Ghost Tours & Historical Walks,3431
+2019-05-12 18:05:03.006012024,Kimberley Museum,5446
+2019-05-12 18:05:03.006012024,McGregor Museum,3540
+2019-05-12 18:05:03.006012024,William Humphreys Art Gallery,1235
+2019-05-12 18:05:03.006012024,Magersfontein Battlefield,4237
+2019-05-12 18:05:03.006012024,Ghost Tours & Historical Walks,4666
+2019-05-15 16:21:09.739478958,Kimberley Museum,3371
+2019-05-15 16:21:09.739478958,McGregor Museum,4122
+2019-05-15 16:21:09.739478958,William Humphreys Art Gallery,6064
+2019-05-15 16:21:09.739478958,Magersfontein Battlefield,6598
+2019-05-15 16:21:09.739478958,Ghost Tours & Historical Walks,6158
+2019-05-18 14:37:16.472945892,Kimberley Museum,4373
+2019-05-18 14:37:16.472945892,McGregor Museum,4052
+2019-05-18 14:37:16.472945892,William Humphreys Art Gallery,4566
+2019-05-18 14:37:16.472945892,Magersfontein Battlefield,3426
+2019-05-18 14:37:16.472945892,Ghost Tours & Historical Walks,4130
+2019-05-21 12:53:23.206412826,Kimberley Museum,3172
+2019-05-21 12:53:23.206412826,McGregor Museum,2554
+2019-05-21 12:53:23.206412826,William Humphreys Art Gallery,6890
+2019-05-21 12:53:23.206412826,Magersfontein Battlefield,6062
+2019-05-21 12:53:23.206412826,Ghost Tours & Historical Walks,4995
+2019-05-24 11:09:29.939879760,Kimberley Museum,5860
+2019-05-24 11:09:29.939879760,McGregor Museum,5129
+2019-05-24 11:09:29.939879760,William Humphreys Art Gallery,3149
+2019-05-24 11:09:29.939879760,Magersfontein Battlefield,5441
+2019-05-24 11:09:29.939879760,Ghost Tours & Historical Walks,2741
+2019-05-27 09:25:36.673346694,Kimberley Museum,2308
+2019-05-27 09:25:36.673346694,McGregor Museum,4676
+2019-05-27 09:25:36.673346694,William Humphreys Art Gallery,6369
+2019-05-27 09:25:36.673346694,Magersfontein Battlefield,3153
+2019-05-27 09:25:36.673346694,Ghost Tours & Historical Walks,5247
+2019-05-30 07:41:43.406813628,Kimberley Museum,4718
+2019-05-30 07:41:43.406813628,McGregor Museum,4318
+2019-05-30 07:41:43.406813628,William Humphreys Art Gallery,7348
+2019-05-30 07:41:43.406813628,Magersfontein Battlefield,6946
+2019-05-30 07:41:43.406813628,Ghost Tours & Historical Walks,5090
+2019-06-02 05:57:50.140280562,Kimberley Museum,5698
+2019-06-02 05:57:50.140280562,McGregor Museum,4293
+2019-06-02 05:57:50.140280562,William Humphreys Art Gallery,3380
+2019-06-02 05:57:50.140280562,Magersfontein Battlefield,7138
+2019-06-02 05:57:50.140280562,Ghost Tours & Historical Walks,4470
+2019-06-05 04:13:56.873747496,Kimberley Museum,6168
+2019-06-05 04:13:56.873747496,McGregor Museum,1942
+2019-06-05 04:13:56.873747496,William Humphreys Art Gallery,5925
+2019-06-05 04:13:56.873747496,Magersfontein Battlefield,6301
+2019-06-05 04:13:56.873747496,Ghost Tours & Historical Walks,5411
+2019-06-08 02:30:03.607214430,Kimberley Museum,5814
+2019-06-08 02:30:03.607214430,McGregor Museum,4642
+2019-06-08 02:30:03.607214430,William Humphreys Art Gallery,3747
+2019-06-08 02:30:03.607214430,Magersfontein Battlefield,4529
+2019-06-08 02:30:03.607214430,Ghost Tours & Historical Walks,4999
+2019-06-11 00:46:10.340681364,Kimberley Museum,4498
+2019-06-11 00:46:10.340681364,McGregor Museum,3259
+2019-06-11 00:46:10.340681364,William Humphreys Art Gallery,4632
+2019-06-11 00:46:10.340681364,Magersfontein Battlefield,3037
+2019-06-11 00:46:10.340681364,Ghost Tours & Historical Walks,3208
+2019-06-13 23:02:17.074148296,Kimberley Museum,2153
+2019-06-13 23:02:17.074148296,McGregor Museum,6714
+2019-06-13 23:02:17.074148296,William Humphreys Art Gallery,4220
+2019-06-13 23:02:17.074148296,Magersfontein Battlefield,5450
+2019-06-13 23:02:17.074148296,Ghost Tours & Historical Walks,6737
+2019-06-16 21:18:23.807615230,Kimberley Museum,4774
+2019-06-16 21:18:23.807615230,McGregor Museum,8223
+2019-06-16 21:18:23.807615230,William Humphreys Art Gallery,2963
+2019-06-16 21:18:23.807615230,Magersfontein Battlefield,3429
+2019-06-16 21:18:23.807615230,Ghost Tours & Historical Walks,6883
+2019-06-19 19:34:30.541082164,Kimberley Museum,3388
+2019-06-19 19:34:30.541082164,McGregor Museum,5761
+2019-06-19 19:34:30.541082164,William Humphreys Art Gallery,4404
+2019-06-19 19:34:30.541082164,Magersfontein Battlefield,4336
+2019-06-19 19:34:30.541082164,Ghost Tours & Historical Walks,4435
+2019-06-22 17:50:37.274549098,Kimberley Museum,5364
+2019-06-22 17:50:37.274549098,McGregor Museum,7887
+2019-06-22 17:50:37.274549098,William Humphreys Art Gallery,4765
+2019-06-22 17:50:37.274549098,Magersfontein Battlefield,3344
+2019-06-22 17:50:37.274549098,Ghost Tours & Historical Walks,6799
+2019-06-25 16:06:44.008016032,Kimberley Museum,3865
+2019-06-25 16:06:44.008016032,McGregor Museum,7414
+2019-06-25 16:06:44.008016032,William Humphreys Art Gallery,6104
+2019-06-25 16:06:44.008016032,Magersfontein Battlefield,8587
+2019-06-25 16:06:44.008016032,Ghost Tours & Historical Walks,4812
+2019-06-28 14:22:50.741482966,Kimberley Museum,2543
+2019-06-28 14:22:50.741482966,McGregor Museum,1848
+2019-06-28 14:22:50.741482966,William Humphreys Art Gallery,6683
+2019-06-28 14:22:50.741482966,Magersfontein Battlefield,3804
+2019-06-28 14:22:50.741482966,Ghost Tours & Historical Walks,2767
+2019-07-01 12:38:57.474949900,Kimberley Museum,5094
+2019-07-01 12:38:57.474949900,McGregor Museum,4576
+2019-07-01 12:38:57.474949900,William Humphreys Art Gallery,7146
+2019-07-01 12:38:57.474949900,Magersfontein Battlefield,5325
+2019-07-01 12:38:57.474949900,Ghost Tours & Historical Walks,4903
+2019-07-04 10:55:04.208416834,Kimberley Museum,4142
+2019-07-04 10:55:04.208416834,McGregor Museum,4500
+2019-07-04 10:55:04.208416834,William Humphreys Art Gallery,1903
+2019-07-04 10:55:04.208416834,Magersfontein Battlefield,5156
+2019-07-04 10:55:04.208416834,Ghost Tours & Historical Walks,7554
+2019-07-07 09:11:10.941883768,Kimberley Museum,4546
+2019-07-07 09:11:10.941883768,McGregor Museum,6666
+2019-07-07 09:11:10.941883768,William Humphreys Art Gallery,2990
+2019-07-07 09:11:10.941883768,Magersfontein Battlefield,6945
+2019-07-07 09:11:10.941883768,Ghost Tours & Historical Walks,4816
+2019-07-10 07:27:17.675350702,Kimberley Museum,4423
+2019-07-10 07:27:17.675350702,McGregor Museum,3081
+2019-07-10 07:27:17.675350702,William Humphreys Art Gallery,3968
+2019-07-10 07:27:17.675350702,Magersfontein Battlefield,4711
+2019-07-10 07:27:17.675350702,Ghost Tours & Historical Walks,5715
+2019-07-13 05:43:24.408817636,Kimberley Museum,3638
+2019-07-13 05:43:24.408817636,McGregor Museum,3653
+2019-07-13 05:43:24.408817636,William Humphreys Art Gallery,3644
+2019-07-13 05:43:24.408817636,Magersfontein Battlefield,7243
+2019-07-13 05:43:24.408817636,Ghost Tours & Historical Walks,3361
+2019-07-16 03:59:31.142284570,Kimberley Museum,4909
+2019-07-16 03:59:31.142284570,McGregor Museum,2839
+2019-07-16 03:59:31.142284570,William Humphreys Art Gallery,5759
+2019-07-16 03:59:31.142284570,Magersfontein Battlefield,5238
+2019-07-16 03:59:31.142284570,Ghost Tours & Historical Walks,5231
+2019-07-19 02:15:37.875751504,Kimberley Museum,5999
+2019-07-19 02:15:37.875751504,McGregor Museum,5449
+2019-07-19 02:15:37.875751504,William Humphreys Art Gallery,5170
+2019-07-19 02:15:37.875751504,Magersfontein Battlefield,4198
+2019-07-19 02:15:37.875751504,Ghost Tours & Historical Walks,5004
+2019-07-22 00:31:44.609218438,Kimberley Museum,5118
+2019-07-22 00:31:44.609218438,McGregor Museum,4178
+2019-07-22 00:31:44.609218438,William Humphreys Art Gallery,7446
+2019-07-22 00:31:44.609218438,Magersfontein Battlefield,4007
+2019-07-22 00:31:44.609218438,Ghost Tours & Historical Walks,6372
+2019-07-24 22:47:51.342685372,Kimberley Museum,4063
+2019-07-24 22:47:51.342685372,McGregor Museum,3878
+2019-07-24 22:47:51.342685372,William Humphreys Art Gallery,4354
+2019-07-24 22:47:51.342685372,Magersfontein Battlefield,7983
+2019-07-24 22:47:51.342685372,Ghost Tours & Historical Walks,4548
+2019-07-27 21:03:58.076152306,Kimberley Museum,6509
+2019-07-27 21:03:58.076152306,McGregor Museum,5034
+2019-07-27 21:03:58.076152306,William Humphreys Art Gallery,4732
+2019-07-27 21:03:58.076152306,Magersfontein Battlefield,5879
+2019-07-27 21:03:58.076152306,Ghost Tours & Historical Walks,2972
+2019-07-30 19:20:04.809619240,Kimberley Museum,5189
+2019-07-30 19:20:04.809619240,McGregor Museum,3433
+2019-07-30 19:20:04.809619240,William Humphreys Art Gallery,6213
+2019-07-30 19:20:04.809619240,Magersfontein Battlefield,5338
+2019-07-30 19:20:04.809619240,Ghost Tours & Historical Walks,4597
+2019-08-02 17:36:11.543086172,Kimberley Museum,6996
+2019-08-02 17:36:11.543086172,McGregor Museum,4772
+2019-08-02 17:36:11.543086172,William Humphreys Art Gallery,2870
+2019-08-02 17:36:11.543086172,Magersfontein Battlefield,3683
+2019-08-02 17:36:11.543086172,Ghost Tours & Historical Walks,3902
+2019-08-05 15:52:18.276553108,Kimberley Museum,4331
+2019-08-05 15:52:18.276553108,McGregor Museum,7095
+2019-08-05 15:52:18.276553108,William Humphreys Art Gallery,6238
+2019-08-05 15:52:18.276553108,Magersfontein Battlefield,6488
+2019-08-05 15:52:18.276553108,Ghost Tours & Historical Walks,4408
+2019-08-08 14:08:25.010020040,Kimberley Museum,4691
+2019-08-08 14:08:25.010020040,McGregor Museum,4957
+2019-08-08 14:08:25.010020040,William Humphreys Art Gallery,2955
+2019-08-08 14:08:25.010020040,Magersfontein Battlefield,3937
+2019-08-08 14:08:25.010020040,Ghost Tours & Historical Walks,7046
+2019-08-11 12:24:31.743486976,Kimberley Museum,6106
+2019-08-11 12:24:31.743486976,McGregor Museum,6112
+2019-08-11 12:24:31.743486976,William Humphreys Art Gallery,3763
+2019-08-11 12:24:31.743486976,Magersfontein Battlefield,5573
+2019-08-11 12:24:31.743486976,Ghost Tours & Historical Walks,5651
+2019-08-14 10:40:38.476953908,Kimberley Museum,4473
+2019-08-14 10:40:38.476953908,McGregor Museum,6611
+2019-08-14 10:40:38.476953908,William Humphreys Art Gallery,5225
+2019-08-14 10:40:38.476953908,Magersfontein Battlefield,5669
+2019-08-14 10:40:38.476953908,Ghost Tours & Historical Walks,3478
+2019-08-17 08:56:45.210420844,Kimberley Museum,4969
+2019-08-17 08:56:45.210420844,McGregor Museum,5779
+2019-08-17 08:56:45.210420844,William Humphreys Art Gallery,5096
+2019-08-17 08:56:45.210420844,Magersfontein Battlefield,3454
+2019-08-17 08:56:45.210420844,Ghost Tours & Historical Walks,8785
+2019-08-20 07:12:51.943887776,Kimberley Museum,4783
+2019-08-20 07:12:51.943887776,McGregor Museum,6676
+2019-08-20 07:12:51.943887776,William Humphreys Art Gallery,4109
+2019-08-20 07:12:51.943887776,Magersfontein Battlefield,2665
+2019-08-20 07:12:51.943887776,Ghost Tours & Historical Walks,5817
+2019-08-23 05:28:58.677354712,Kimberley Museum,6546
+2019-08-23 05:28:58.677354712,McGregor Museum,7324
+2019-08-23 05:28:58.677354712,William Humphreys Art Gallery,3901
+2019-08-23 05:28:58.677354712,Magersfontein Battlefield,3831
+2019-08-23 05:28:58.677354712,Ghost Tours & Historical Walks,2090
+2019-08-26 03:45:05.410821644,Kimberley Museum,4510
+2019-08-26 03:45:05.410821644,McGregor Museum,6380
+2019-08-26 03:45:05.410821644,William Humphreys Art Gallery,4942
+2019-08-26 03:45:05.410821644,Magersfontein Battlefield,2230
+2019-08-26 03:45:05.410821644,Ghost Tours & Historical Walks,4422
+2019-08-29 02:01:12.144288576,Kimberley Museum,4006
+2019-08-29 02:01:12.144288576,McGregor Museum,2462
+2019-08-29 02:01:12.144288576,William Humphreys Art Gallery,3550
+2019-08-29 02:01:12.144288576,Magersfontein Battlefield,7383
+2019-08-29 02:01:12.144288576,Ghost Tours & Historical Walks,6466
+2019-09-01 00:17:18.877755512,Kimberley Museum,7119
+2019-09-01 00:17:18.877755512,McGregor Museum,2916
+2019-09-01 00:17:18.877755512,William Humphreys Art Gallery,4138
+2019-09-01 00:17:18.877755512,Magersfontein Battlefield,3106
+2019-09-01 00:17:18.877755512,Ghost Tours & Historical Walks,4885
+2019-09-03 22:33:25.611222444,Kimberley Museum,5371
+2019-09-03 22:33:25.611222444,McGregor Museum,4191
+2019-09-03 22:33:25.611222444,William Humphreys Art Gallery,6725
+2019-09-03 22:33:25.611222444,Magersfontein Battlefield,4674
+2019-09-03 22:33:25.611222444,Ghost Tours & Historical Walks,5201
+2019-09-06 20:49:32.344689380,Kimberley Museum,5443
+2019-09-06 20:49:32.344689380,McGregor Museum,5279
+2019-09-06 20:49:32.344689380,William Humphreys Art Gallery,3658
+2019-09-06 20:49:32.344689380,Magersfontein Battlefield,2977
+2019-09-06 20:49:32.344689380,Ghost Tours & Historical Walks,4783
+2019-09-09 19:05:39.078156312,Kimberley Museum,4118
+2019-09-09 19:05:39.078156312,McGregor Museum,4737
+2019-09-09 19:05:39.078156312,William Humphreys Art Gallery,7069
+2019-09-09 19:05:39.078156312,Magersfontein Battlefield,4661
+2019-09-09 19:05:39.078156312,Ghost Tours & Historical Walks,5191
+2019-09-12 17:21:45.811623248,Kimberley Museum,5484
+2019-09-12 17:21:45.811623248,McGregor Museum,3250
+2019-09-12 17:21:45.811623248,William Humphreys Art Gallery,2466
+2019-09-12 17:21:45.811623248,Magersfontein Battlefield,5680
+2019-09-12 17:21:45.811623248,Ghost Tours & Historical Walks,6613
+2019-09-15 15:37:52.545090180,Kimberley Museum,3869
+2019-09-15 15:37:52.545090180,McGregor Museum,5775
+2019-09-15 15:37:52.545090180,William Humphreys Art Gallery,4177
+2019-09-15 15:37:52.545090180,Magersfontein Battlefield,3432
+2019-09-15 15:37:52.545090180,Ghost Tours & Historical Walks,5839
+2019-09-18 13:53:59.278557116,Kimberley Museum,5074
+2019-09-18 13:53:59.278557116,McGregor Museum,5292
+2019-09-18 13:53:59.278557116,William Humphreys Art Gallery,5262
+2019-09-18 13:53:59.278557116,Magersfontein Battlefield,4144
+2019-09-18 13:53:59.278557116,Ghost Tours & Historical Walks,3300
+2019-09-21 12:10:06.012024048,Kimberley Museum,4093
+2019-09-21 12:10:06.012024048,McGregor Museum,6454
+2019-09-21 12:10:06.012024048,William Humphreys Art Gallery,6030
+2019-09-21 12:10:06.012024048,Magersfontein Battlefield,2424
+2019-09-21 12:10:06.012024048,Ghost Tours & Historical Walks,4187
+2019-09-24 10:26:12.745490984,Kimberley Museum,3109
+2019-09-24 10:26:12.745490984,McGregor Museum,6265
+2019-09-24 10:26:12.745490984,William Humphreys Art Gallery,4726
+2019-09-24 10:26:12.745490984,Magersfontein Battlefield,4809
+2019-09-24 10:26:12.745490984,Ghost Tours & Historical Walks,5164
+2019-09-27 08:42:19.478957916,Kimberley Museum,4077
+2019-09-27 08:42:19.478957916,McGregor Museum,3594
+2019-09-27 08:42:19.478957916,William Humphreys Art Gallery,5483
+2019-09-27 08:42:19.478957916,Magersfontein Battlefield,4331
+2019-09-27 08:42:19.478957916,Ghost Tours & Historical Walks,5283
+2019-09-30 06:58:26.212424852,Kimberley Museum,2357
+2019-09-30 06:58:26.212424852,McGregor Museum,5205
+2019-09-30 06:58:26.212424852,William Humphreys Art Gallery,4014
+2019-09-30 06:58:26.212424852,Magersfontein Battlefield,4953
+2019-09-30 06:58:26.212424852,Ghost Tours & Historical Walks,7632
+2019-10-03 05:14:32.945891784,Kimberley Museum,1117
+2019-10-03 05:14:32.945891784,McGregor Museum,6871
+2019-10-03 05:14:32.945891784,William Humphreys Art Gallery,5759
+2019-10-03 05:14:32.945891784,Magersfontein Battlefield,2166
+2019-10-03 05:14:32.945891784,Ghost Tours & Historical Walks,6810
+2019-10-06 03:30:39.679358720,Kimberley Museum,4398
+2019-10-06 03:30:39.679358720,McGregor Museum,4709
+2019-10-06 03:30:39.679358720,William Humphreys Art Gallery,5077
+2019-10-06 03:30:39.679358720,Magersfontein Battlefield,4856
+2019-10-06 03:30:39.679358720,Ghost Tours & Historical Walks,4490
+2019-10-09 01:46:46.412825652,Kimberley Museum,5962
+2019-10-09 01:46:46.412825652,McGregor Museum,5816
+2019-10-09 01:46:46.412825652,William Humphreys Art Gallery,5358
+2019-10-09 01:46:46.412825652,Magersfontein Battlefield,4430
+2019-10-09 01:46:46.412825652,Ghost Tours & Historical Walks,5213
+2019-10-12 00:02:53.146292584,Kimberley Museum,3156
+2019-10-12 00:02:53.146292584,McGregor Museum,5775
+2019-10-12 00:02:53.146292584,William Humphreys Art Gallery,5977
+2019-10-12 00:02:53.146292584,Magersfontein Battlefield,7401
+2019-10-12 00:02:53.146292584,Ghost Tours & Historical Walks,5808
+2019-10-14 22:18:59.879759520,Kimberley Museum,4702
+2019-10-14 22:18:59.879759520,McGregor Museum,5651
+2019-10-14 22:18:59.879759520,William Humphreys Art Gallery,6588
+2019-10-14 22:18:59.879759520,Magersfontein Battlefield,5182
+2019-10-14 22:18:59.879759520,Ghost Tours & Historical Walks,5334
+2019-10-17 20:35:06.613226452,Kimberley Museum,1989
+2019-10-17 20:35:06.613226452,McGregor Museum,6288
+2019-10-17 20:35:06.613226452,William Humphreys Art Gallery,4237
+2019-10-17 20:35:06.613226452,Magersfontein Battlefield,4112
+2019-10-17 20:35:06.613226452,Ghost Tours & Historical Walks,7525
+2019-10-20 18:51:13.346693388,Kimberley Museum,4478
+2019-10-20 18:51:13.346693388,McGregor Museum,5008
+2019-10-20 18:51:13.346693388,William Humphreys Art Gallery,4129
+2019-10-20 18:51:13.346693388,Magersfontein Battlefield,3868
+2019-10-20 18:51:13.346693388,Ghost Tours & Historical Walks,4110
+2019-10-23 17:07:20.080160320,Kimberley Museum,3976
+2019-10-23 17:07:20.080160320,McGregor Museum,4843
+2019-10-23 17:07:20.080160320,William Humphreys Art Gallery,4499
+2019-10-23 17:07:20.080160320,Magersfontein Battlefield,5420
+2019-10-23 17:07:20.080160320,Ghost Tours & Historical Walks,4077
+2019-10-26 15:23:26.813627256,Kimberley Museum,7993
+2019-10-26 15:23:26.813627256,McGregor Museum,4795
+2019-10-26 15:23:26.813627256,William Humphreys Art Gallery,3628
+2019-10-26 15:23:26.813627256,Magersfontein Battlefield,7313
+2019-10-26 15:23:26.813627256,Ghost Tours & Historical Walks,4327
+2019-10-29 13:39:33.547094188,Kimberley Museum,3875
+2019-10-29 13:39:33.547094188,McGregor Museum,6189
+2019-10-29 13:39:33.547094188,William Humphreys Art Gallery,4022
+2019-10-29 13:39:33.547094188,Magersfontein Battlefield,3272
+2019-10-29 13:39:33.547094188,Ghost Tours & Historical Walks,5787
+2019-11-01 11:55:40.280561124,Kimberley Museum,2729
+2019-11-01 11:55:40.280561124,McGregor Museum,3565
+2019-11-01 11:55:40.280561124,William Humphreys Art Gallery,4146
+2019-11-01 11:55:40.280561124,Magersfontein Battlefield,2246
+2019-11-01 11:55:40.280561124,Ghost Tours & Historical Walks,6509
+2019-11-04 10:11:47.014028056,Kimberley Museum,2019
+2019-11-04 10:11:47.014028056,McGregor Museum,8329
+2019-11-04 10:11:47.014028056,William Humphreys Art Gallery,4682
+2019-11-04 10:11:47.014028056,Magersfontein Battlefield,5034
+2019-11-04 10:11:47.014028056,Ghost Tours & Historical Walks,4136
+2019-11-07 08:27:53.747494992,Kimberley Museum,4269
+2019-11-07 08:27:53.747494992,McGregor Museum,5435
+2019-11-07 08:27:53.747494992,William Humphreys Art Gallery,7496
+2019-11-07 08:27:53.747494992,Magersfontein Battlefield,4536
+2019-11-07 08:27:53.747494992,Ghost Tours & Historical Walks,4742
+2019-11-10 06:44:00.480961924,Kimberley Museum,5024
+2019-11-10 06:44:00.480961924,McGregor Museum,4995
+2019-11-10 06:44:00.480961924,William Humphreys Art Gallery,4801
+2019-11-10 06:44:00.480961924,Magersfontein Battlefield,4794
+2019-11-10 06:44:00.480961924,Ghost Tours & Historical Walks,6343
+2019-11-13 05:00:07.214428860,Kimberley Museum,3083
+2019-11-13 05:00:07.214428860,McGregor Museum,4655
+2019-11-13 05:00:07.214428860,William Humphreys Art Gallery,4322
+2019-11-13 05:00:07.214428860,Magersfontein Battlefield,2822
+2019-11-13 05:00:07.214428860,Ghost Tours & Historical Walks,7395
+2019-11-16 03:16:13.947895792,Kimberley Museum,2749
+2019-11-16 03:16:13.947895792,McGregor Museum,7695
+2019-11-16 03:16:13.947895792,William Humphreys Art Gallery,2422
+2019-11-16 03:16:13.947895792,Magersfontein Battlefield,4047
+2019-11-16 03:16:13.947895792,Ghost Tours & Historical Walks,3813
+2019-11-19 01:32:20.681362728,Kimberley Museum,5786
+2019-11-19 01:32:20.681362728,McGregor Museum,6171
+2019-11-19 01:32:20.681362728,William Humphreys Art Gallery,5317
+2019-11-19 01:32:20.681362728,Magersfontein Battlefield,4271
+2019-11-19 01:32:20.681362728,Ghost Tours & Historical Walks,4942
+2019-11-21 23:48:27.414829660,Kimberley Museum,6181
+2019-11-21 23:48:27.414829660,McGregor Museum,4028
+2019-11-21 23:48:27.414829660,William Humphreys Art Gallery,3159
+2019-11-21 23:48:27.414829660,Magersfontein Battlefield,5686
+2019-11-21 23:48:27.414829660,Ghost Tours & Historical Walks,4898
+2019-11-24 22:04:34.148296592,Kimberley Museum,3414
+2019-11-24 22:04:34.148296592,McGregor Museum,5439
+2019-11-24 22:04:34.148296592,William Humphreys Art Gallery,3935
+2019-11-24 22:04:34.148296592,Magersfontein Battlefield,4966
+2019-11-24 22:04:34.148296592,Ghost Tours & Historical Walks,3257
+2019-11-27 20:20:40.881763528,Kimberley Museum,3764
+2019-11-27 20:20:40.881763528,McGregor Museum,3473
+2019-11-27 20:20:40.881763528,William Humphreys Art Gallery,3953
+2019-11-27 20:20:40.881763528,Magersfontein Battlefield,6120
+2019-11-27 20:20:40.881763528,Ghost Tours & Historical Walks,4426
+2019-11-30 18:36:47.615230460,Kimberley Museum,4434
+2019-11-30 18:36:47.615230460,McGregor Museum,5677
+2019-11-30 18:36:47.615230460,William Humphreys Art Gallery,3122
+2019-11-30 18:36:47.615230460,Magersfontein Battlefield,4966
+2019-11-30 18:36:47.615230460,Ghost Tours & Historical Walks,5953
+2019-12-03 16:52:54.348697396,Kimberley Museum,6872
+2019-12-03 16:52:54.348697396,McGregor Museum,7234
+2019-12-03 16:52:54.348697396,William Humphreys Art Gallery,7767
+2019-12-03 16:52:54.348697396,Magersfontein Battlefield,4997
+2019-12-03 16:52:54.348697396,Ghost Tours & Historical Walks,4092
+2019-12-06 15:09:01.082164328,Kimberley Museum,3794
+2019-12-06 15:09:01.082164328,McGregor Museum,4379
+2019-12-06 15:09:01.082164328,William Humphreys Art Gallery,7025
+2019-12-06 15:09:01.082164328,Magersfontein Battlefield,5992
+2019-12-06 15:09:01.082164328,Ghost Tours & Historical Walks,5277
+2019-12-09 13:25:07.815631264,Kimberley Museum,4125
+2019-12-09 13:25:07.815631264,McGregor Museum,5286
+2019-12-09 13:25:07.815631264,William Humphreys Art Gallery,6248
+2019-12-09 13:25:07.815631264,Magersfontein Battlefield,2192
+2019-12-09 13:25:07.815631264,Ghost Tours & Historical Walks,5727
+2019-12-12 11:41:14.549098196,Kimberley Museum,5468
+2019-12-12 11:41:14.549098196,McGregor Museum,4578
+2019-12-12 11:41:14.549098196,William Humphreys Art Gallery,4099
+2019-12-12 11:41:14.549098196,Magersfontein Battlefield,3853
+2019-12-12 11:41:14.549098196,Ghost Tours & Historical Walks,5190
+2019-12-15 09:57:21.282565132,Kimberley Museum,3978
+2019-12-15 09:57:21.282565132,McGregor Museum,2316
+2019-12-15 09:57:21.282565132,William Humphreys Art Gallery,5946
+2019-12-15 09:57:21.282565132,Magersfontein Battlefield,5168
+2019-12-15 09:57:21.282565132,Ghost Tours & Historical Walks,3956
+2019-12-18 08:13:28.016032064,Kimberley Museum,3561
+2019-12-18 08:13:28.016032064,McGregor Museum,1908
+2019-12-18 08:13:28.016032064,William Humphreys Art Gallery,713
+2019-12-18 08:13:28.016032064,Magersfontein Battlefield,4939
+2019-12-18 08:13:28.016032064,Ghost Tours & Historical Walks,2647
+2019-12-21 06:29:34.749499000,Kimberley Museum,2779
+2019-12-21 06:29:34.749499000,McGregor Museum,4941
+2019-12-21 06:29:34.749499000,William Humphreys Art Gallery,3907
+2019-12-21 06:29:34.749499000,Magersfontein Battlefield,4307
+2019-12-21 06:29:34.749499000,Ghost Tours & Historical Walks,11213
+2019-12-24 04:45:41.482965932,Kimberley Museum,1889
+2019-12-24 04:45:41.482965932,McGregor Museum,7034
+2019-12-24 04:45:41.482965932,William Humphreys Art Gallery,2965
+2019-12-24 04:45:41.482965932,Magersfontein Battlefield,7318
+2019-12-24 04:45:41.482965932,Ghost Tours & Historical Walks,3900
+2019-12-27 03:01:48.216432868,Kimberley Museum,4934
+2019-12-27 03:01:48.216432868,McGregor Museum,4278
+2019-12-27 03:01:48.216432868,William Humphreys Art Gallery,5114
+2019-12-27 03:01:48.216432868,Magersfontein Battlefield,5843
+2019-12-27 03:01:48.216432868,Ghost Tours & Historical Walks,3704
+2019-12-30 01:17:54.949899800,Kimberley Museum,5444
+2019-12-30 01:17:54.949899800,McGregor Museum,5544
+2019-12-30 01:17:54.949899800,William Humphreys Art Gallery,3628
+2019-12-30 01:17:54.949899800,Magersfontein Battlefield,5005
+2019-12-30 01:17:54.949899800,Ghost Tours & Historical Walks,4178
+2020-01-01 23:34:01.683366736,Kimberley Museum,6601
+2020-01-01 23:34:01.683366736,McGregor Museum,1542
+2020-01-01 23:34:01.683366736,William Humphreys Art Gallery,6037
+2020-01-01 23:34:01.683366736,Magersfontein Battlefield,4564
+2020-01-01 23:34:01.683366736,Ghost Tours & Historical Walks,3956
+2020-01-04 21:50:08.416833668,Kimberley Museum,4295
+2020-01-04 21:50:08.416833668,McGregor Museum,6635
+2020-01-04 21:50:08.416833668,William Humphreys Art Gallery,3960
+2020-01-04 21:50:08.416833668,Magersfontein Battlefield,4545
+2020-01-04 21:50:08.416833668,Ghost Tours & Historical Walks,2226
+2020-01-07 20:06:15.150300604,Kimberley Museum,6577
+2020-01-07 20:06:15.150300604,McGregor Museum,4758
+2020-01-07 20:06:15.150300604,William Humphreys Art Gallery,4476
+2020-01-07 20:06:15.150300604,Magersfontein Battlefield,5378
+2020-01-07 20:06:15.150300604,Ghost Tours & Historical Walks,5202
+2020-01-10 18:22:21.883767536,Kimberley Museum,5063
+2020-01-10 18:22:21.883767536,McGregor Museum,2412
+2020-01-10 18:22:21.883767536,William Humphreys Art Gallery,1934
+2020-01-10 18:22:21.883767536,Magersfontein Battlefield,7987
+2020-01-10 18:22:21.883767536,Ghost Tours & Historical Walks,3040
+2020-01-13 16:38:28.617234468,Kimberley Museum,7325
+2020-01-13 16:38:28.617234468,McGregor Museum,4933
+2020-01-13 16:38:28.617234468,William Humphreys Art Gallery,5148
+2020-01-13 16:38:28.617234468,Magersfontein Battlefield,4023
+2020-01-13 16:38:28.617234468,Ghost Tours & Historical Walks,5416
+2020-01-16 14:54:35.350701404,Kimberley Museum,4814
+2020-01-16 14:54:35.350701404,McGregor Museum,4975
+2020-01-16 14:54:35.350701404,William Humphreys Art Gallery,4683
+2020-01-16 14:54:35.350701404,Magersfontein Battlefield,5358
+2020-01-16 14:54:35.350701404,Ghost Tours & Historical Walks,8428
+2020-01-19 13:10:42.084168336,Kimberley Museum,3679
+2020-01-19 13:10:42.084168336,McGregor Museum,4490
+2020-01-19 13:10:42.084168336,William Humphreys Art Gallery,6928
+2020-01-19 13:10:42.084168336,Magersfontein Battlefield,7528
+2020-01-19 13:10:42.084168336,Ghost Tours & Historical Walks,2532
+2020-01-22 11:26:48.817635272,Kimberley Museum,5678
+2020-01-22 11:26:48.817635272,McGregor Museum,5169
+2020-01-22 11:26:48.817635272,William Humphreys Art Gallery,3358
+2020-01-22 11:26:48.817635272,Magersfontein Battlefield,1907
+2020-01-22 11:26:48.817635272,Ghost Tours & Historical Walks,7515
+2020-01-25 09:42:55.551102204,Kimberley Museum,3463
+2020-01-25 09:42:55.551102204,McGregor Museum,7082
+2020-01-25 09:42:55.551102204,William Humphreys Art Gallery,5543
+2020-01-25 09:42:55.551102204,Magersfontein Battlefield,6177
+2020-01-25 09:42:55.551102204,Ghost Tours & Historical Walks,6454
+2020-01-28 07:59:02.284569140,Kimberley Museum,2172
+2020-01-28 07:59:02.284569140,McGregor Museum,4717
+2020-01-28 07:59:02.284569140,William Humphreys Art Gallery,6944
+2020-01-28 07:59:02.284569140,Magersfontein Battlefield,5333
+2020-01-28 07:59:02.284569140,Ghost Tours & Historical Walks,3796
+2020-01-31 06:15:09.018036072,Kimberley Museum,3552
+2020-01-31 06:15:09.018036072,McGregor Museum,1939
+2020-01-31 06:15:09.018036072,William Humphreys Art Gallery,5616
+2020-01-31 06:15:09.018036072,Magersfontein Battlefield,5192
+2020-01-31 06:15:09.018036072,Ghost Tours & Historical Walks,4837
+2020-02-03 04:31:15.751503008,Kimberley Museum,6364
+2020-02-03 04:31:15.751503008,McGregor Museum,5460
+2020-02-03 04:31:15.751503008,William Humphreys Art Gallery,3986
+2020-02-03 04:31:15.751503008,Magersfontein Battlefield,4851
+2020-02-03 04:31:15.751503008,Ghost Tours & Historical Walks,4698
+2020-02-06 02:47:22.484969940,Kimberley Museum,5134
+2020-02-06 02:47:22.484969940,McGregor Museum,2732
+2020-02-06 02:47:22.484969940,William Humphreys Art Gallery,4344
+2020-02-06 02:47:22.484969940,Magersfontein Battlefield,3688
+2020-02-06 02:47:22.484969940,Ghost Tours & Historical Walks,4006
+2020-02-09 01:03:29.218436876,Kimberley Museum,4209
+2020-02-09 01:03:29.218436876,McGregor Museum,1779
+2020-02-09 01:03:29.218436876,William Humphreys Art Gallery,5943
+2020-02-09 01:03:29.218436876,Magersfontein Battlefield,4679
+2020-02-09 01:03:29.218436876,Ghost Tours & Historical Walks,4821
+2020-02-11 23:19:35.951903808,Kimberley Museum,3990
+2020-02-11 23:19:35.951903808,McGregor Museum,7576
+2020-02-11 23:19:35.951903808,William Humphreys Art Gallery,3106
+2020-02-11 23:19:35.951903808,Magersfontein Battlefield,4219
+2020-02-11 23:19:35.951903808,Ghost Tours & Historical Walks,3808
+2020-02-14 21:35:42.685370744,Kimberley Museum,4447
+2020-02-14 21:35:42.685370744,McGregor Museum,5345
+2020-02-14 21:35:42.685370744,William Humphreys Art Gallery,3335
+2020-02-14 21:35:42.685370744,Magersfontein Battlefield,5974
+2020-02-14 21:35:42.685370744,Ghost Tours & Historical Walks,4513
+2020-02-17 19:51:49.418837676,Kimberley Museum,5682
+2020-02-17 19:51:49.418837676,McGregor Museum,3684
+2020-02-17 19:51:49.418837676,William Humphreys Art Gallery,3716
+2020-02-17 19:51:49.418837676,Magersfontein Battlefield,2542
+2020-02-17 19:51:49.418837676,Ghost Tours & Historical Walks,4842
+2020-02-20 18:07:56.152304612,Kimberley Museum,5607
+2020-02-20 18:07:56.152304612,McGregor Museum,5395
+2020-02-20 18:07:56.152304612,William Humphreys Art Gallery,5119
+2020-02-20 18:07:56.152304612,Magersfontein Battlefield,6254
+2020-02-20 18:07:56.152304612,Ghost Tours & Historical Walks,3522
+2020-02-23 16:24:02.885771544,Kimberley Museum,5492
+2020-02-23 16:24:02.885771544,McGregor Museum,8413
+2020-02-23 16:24:02.885771544,William Humphreys Art Gallery,3775
+2020-02-23 16:24:02.885771544,Magersfontein Battlefield,4723
+2020-02-23 16:24:02.885771544,Ghost Tours & Historical Walks,5286
+2020-02-26 14:40:09.619238480,Kimberley Museum,6877
+2020-02-26 14:40:09.619238480,McGregor Museum,1796
+2020-02-26 14:40:09.619238480,William Humphreys Art Gallery,5396
+2020-02-26 14:40:09.619238480,Magersfontein Battlefield,4005
+2020-02-26 14:40:09.619238480,Ghost Tours & Historical Walks,4229
+2020-02-29 12:56:16.352705408,Kimberley Museum,2932
+2020-02-29 12:56:16.352705408,McGregor Museum,4542
+2020-02-29 12:56:16.352705408,William Humphreys Art Gallery,7205
+2020-02-29 12:56:16.352705408,Magersfontein Battlefield,1934
+2020-02-29 12:56:16.352705408,Ghost Tours & Historical Walks,5635
+2020-03-03 11:12:23.086172344,Kimberley Museum,6727
+2020-03-03 11:12:23.086172344,McGregor Museum,3808
+2020-03-03 11:12:23.086172344,William Humphreys Art Gallery,6253
+2020-03-03 11:12:23.086172344,Magersfontein Battlefield,5308
+2020-03-03 11:12:23.086172344,Ghost Tours & Historical Walks,4061
+2020-03-06 09:28:29.819639280,Kimberley Museum,5256
+2020-03-06 09:28:29.819639280,McGregor Museum,5916
+2020-03-06 09:28:29.819639280,William Humphreys Art Gallery,5250
+2020-03-06 09:28:29.819639280,Magersfontein Battlefield,6710
+2020-03-06 09:28:29.819639280,Ghost Tours & Historical Walks,7438
+2020-03-09 07:44:36.553106216,Kimberley Museum,5929
+2020-03-09 07:44:36.553106216,McGregor Museum,6091
+2020-03-09 07:44:36.553106216,William Humphreys Art Gallery,3651
+2020-03-09 07:44:36.553106216,Magersfontein Battlefield,4410
+2020-03-09 07:44:36.553106216,Ghost Tours & Historical Walks,4886
+2020-03-12 06:00:43.286573144,Kimberley Museum,5172
+2020-03-12 06:00:43.286573144,McGregor Museum,5712
+2020-03-12 06:00:43.286573144,William Humphreys Art Gallery,4508
+2020-03-12 06:00:43.286573144,Magersfontein Battlefield,4313
+2020-03-12 06:00:43.286573144,Ghost Tours & Historical Walks,5683
+2020-03-15 04:16:50.020040080,Kimberley Museum,3579
+2020-03-15 04:16:50.020040080,McGregor Museum,6296
+2020-03-15 04:16:50.020040080,William Humphreys Art Gallery,5945
+2020-03-15 04:16:50.020040080,Magersfontein Battlefield,5755
+2020-03-15 04:16:50.020040080,Ghost Tours & Historical Walks,6709
+2020-03-18 02:32:56.753507016,Kimberley Museum,4849
+2020-03-18 02:32:56.753507016,McGregor Museum,2872
+2020-03-18 02:32:56.753507016,William Humphreys Art Gallery,2912
+2020-03-18 02:32:56.753507016,Magersfontein Battlefield,2339
+2020-03-18 02:32:56.753507016,Ghost Tours & Historical Walks,5407
+2020-03-21 00:49:03.486973952,Kimberley Museum,5980
+2020-03-21 00:49:03.486973952,McGregor Museum,2959
+2020-03-21 00:49:03.486973952,William Humphreys Art Gallery,5410
+2020-03-21 00:49:03.486973952,Magersfontein Battlefield,6810
+2020-03-21 00:49:03.486973952,Ghost Tours & Historical Walks,4283
+2020-03-23 23:05:10.220440880,Kimberley Museum,4789
+2020-03-23 23:05:10.220440880,McGregor Museum,3508
+2020-03-23 23:05:10.220440880,William Humphreys Art Gallery,6621
+2020-03-23 23:05:10.220440880,Magersfontein Battlefield,4061
+2020-03-23 23:05:10.220440880,Ghost Tours & Historical Walks,3834
+2020-03-26 21:21:16.953907816,Kimberley Museum,4855
+2020-03-26 21:21:16.953907816,McGregor Museum,6764
+2020-03-26 21:21:16.953907816,William Humphreys Art Gallery,4503
+2020-03-26 21:21:16.953907816,Magersfontein Battlefield,6086
+2020-03-26 21:21:16.953907816,Ghost Tours & Historical Walks,4939
+2020-03-29 19:37:23.687374752,Kimberley Museum,7515
+2020-03-29 19:37:23.687374752,McGregor Museum,3452
+2020-03-29 19:37:23.687374752,William Humphreys Art Gallery,1960
+2020-03-29 19:37:23.687374752,Magersfontein Battlefield,6736
+2020-03-29 19:37:23.687374752,Ghost Tours & Historical Walks,4088
+2020-04-01 17:53:30.420841688,Kimberley Museum,6054
+2020-04-01 17:53:30.420841688,McGregor Museum,4190
+2020-04-01 17:53:30.420841688,William Humphreys Art Gallery,5093
+2020-04-01 17:53:30.420841688,Magersfontein Battlefield,6543
+2020-04-01 17:53:30.420841688,Ghost Tours & Historical Walks,2295
+2020-04-04 16:09:37.154308616,Kimberley Museum,7629
+2020-04-04 16:09:37.154308616,McGregor Museum,2290
+2020-04-04 16:09:37.154308616,William Humphreys Art Gallery,5140
+2020-04-04 16:09:37.154308616,Magersfontein Battlefield,3382
+2020-04-04 16:09:37.154308616,Ghost Tours & Historical Walks,5078
+2020-04-07 14:25:43.887775552,Kimberley Museum,6256
+2020-04-07 14:25:43.887775552,McGregor Museum,4098
+2020-04-07 14:25:43.887775552,William Humphreys Art Gallery,4692
+2020-04-07 14:25:43.887775552,Magersfontein Battlefield,3111
+2020-04-07 14:25:43.887775552,Ghost Tours & Historical Walks,2045
+2020-04-10 12:41:50.621242488,Kimberley Museum,5254
+2020-04-10 12:41:50.621242488,McGregor Museum,6850
+2020-04-10 12:41:50.621242488,William Humphreys Art Gallery,4843
+2020-04-10 12:41:50.621242488,Magersfontein Battlefield,4809
+2020-04-10 12:41:50.621242488,Ghost Tours & Historical Walks,5149
+2020-04-13 10:57:57.354709424,Kimberley Museum,3647
+2020-04-13 10:57:57.354709424,McGregor Museum,5409
+2020-04-13 10:57:57.354709424,William Humphreys Art Gallery,4180
+2020-04-13 10:57:57.354709424,Magersfontein Battlefield,4697
+2020-04-13 10:57:57.354709424,Ghost Tours & Historical Walks,3689
+2020-04-16 09:14:04.088176352,Kimberley Museum,9073
+2020-04-16 09:14:04.088176352,McGregor Museum,5188
+2020-04-16 09:14:04.088176352,William Humphreys Art Gallery,2560
+2020-04-16 09:14:04.088176352,Magersfontein Battlefield,5155
+2020-04-16 09:14:04.088176352,Ghost Tours & Historical Walks,3466
+2020-04-19 07:30:10.821643288,Kimberley Museum,5037
+2020-04-19 07:30:10.821643288,McGregor Museum,6288
+2020-04-19 07:30:10.821643288,William Humphreys Art Gallery,4600
+2020-04-19 07:30:10.821643288,Magersfontein Battlefield,2334
+2020-04-19 07:30:10.821643288,Ghost Tours & Historical Walks,3278
+2020-04-22 05:46:17.555110224,Kimberley Museum,5980
+2020-04-22 05:46:17.555110224,McGregor Museum,6074
+2020-04-22 05:46:17.555110224,William Humphreys Art Gallery,5776
+2020-04-22 05:46:17.555110224,Magersfontein Battlefield,3345
+2020-04-22 05:46:17.555110224,Ghost Tours & Historical Walks,4255
+2020-04-25 04:02:24.288577152,Kimberley Museum,7249
+2020-04-25 04:02:24.288577152,McGregor Museum,7344
+2020-04-25 04:02:24.288577152,William Humphreys Art Gallery,4824
+2020-04-25 04:02:24.288577152,Magersfontein Battlefield,5267
+2020-04-25 04:02:24.288577152,Ghost Tours & Historical Walks,4014
+2020-04-28 02:18:31.022044088,Kimberley Museum,3626
+2020-04-28 02:18:31.022044088,McGregor Museum,4930
+2020-04-28 02:18:31.022044088,William Humphreys Art Gallery,8125
+2020-04-28 02:18:31.022044088,Magersfontein Battlefield,5425
+2020-04-28 02:18:31.022044088,Ghost Tours & Historical Walks,6297
+2020-05-01 00:34:37.755511024,Kimberley Museum,4978
+2020-05-01 00:34:37.755511024,McGregor Museum,5301
+2020-05-01 00:34:37.755511024,William Humphreys Art Gallery,2358
+2020-05-01 00:34:37.755511024,Magersfontein Battlefield,5057
+2020-05-01 00:34:37.755511024,Ghost Tours & Historical Walks,2219
+2020-05-03 22:50:44.488977960,Kimberley Museum,4404
+2020-05-03 22:50:44.488977960,McGregor Museum,3614
+2020-05-03 22:50:44.488977960,William Humphreys Art Gallery,5725
+2020-05-03 22:50:44.488977960,Magersfontein Battlefield,3391
+2020-05-03 22:50:44.488977960,Ghost Tours & Historical Walks,4176
+2020-05-06 21:06:51.222444888,Kimberley Museum,4406
+2020-05-06 21:06:51.222444888,McGregor Museum,3465
+2020-05-06 21:06:51.222444888,William Humphreys Art Gallery,5476
+2020-05-06 21:06:51.222444888,Magersfontein Battlefield,4805
+2020-05-06 21:06:51.222444888,Ghost Tours & Historical Walks,7787
+2020-05-09 19:22:57.955911824,Kimberley Museum,3051
+2020-05-09 19:22:57.955911824,McGregor Museum,2793
+2020-05-09 19:22:57.955911824,William Humphreys Art Gallery,5031
+2020-05-09 19:22:57.955911824,Magersfontein Battlefield,3425
+2020-05-09 19:22:57.955911824,Ghost Tours & Historical Walks,7620
+2020-05-12 17:39:04.689378760,Kimberley Museum,5469
+2020-05-12 17:39:04.689378760,McGregor Museum,7479
+2020-05-12 17:39:04.689378760,William Humphreys Art Gallery,5732
+2020-05-12 17:39:04.689378760,Magersfontein Battlefield,4850
+2020-05-12 17:39:04.689378760,Ghost Tours & Historical Walks,3318
+2020-05-15 15:55:11.422845696,Kimberley Museum,1723
+2020-05-15 15:55:11.422845696,McGregor Museum,7052
+2020-05-15 15:55:11.422845696,William Humphreys Art Gallery,3872
+2020-05-15 15:55:11.422845696,Magersfontein Battlefield,6091
+2020-05-15 15:55:11.422845696,Ghost Tours & Historical Walks,7499
+2020-05-18 14:11:18.156312624,Kimberley Museum,3404
+2020-05-18 14:11:18.156312624,McGregor Museum,5550
+2020-05-18 14:11:18.156312624,William Humphreys Art Gallery,4252
+2020-05-18 14:11:18.156312624,Magersfontein Battlefield,3067
+2020-05-18 14:11:18.156312624,Ghost Tours & Historical Walks,4973
+2020-05-21 12:27:24.889779560,Kimberley Museum,6391
+2020-05-21 12:27:24.889779560,McGregor Museum,4312
+2020-05-21 12:27:24.889779560,William Humphreys Art Gallery,5636
+2020-05-21 12:27:24.889779560,Magersfontein Battlefield,6453
+2020-05-21 12:27:24.889779560,Ghost Tours & Historical Walks,5240
+2020-05-24 10:43:31.623246496,Kimberley Museum,5071
+2020-05-24 10:43:31.623246496,McGregor Museum,2969
+2020-05-24 10:43:31.623246496,William Humphreys Art Gallery,2461
+2020-05-24 10:43:31.623246496,Magersfontein Battlefield,3827
+2020-05-24 10:43:31.623246496,Ghost Tours & Historical Walks,3139
+2020-05-27 08:59:38.356713432,Kimberley Museum,6540
+2020-05-27 08:59:38.356713432,McGregor Museum,1321
+2020-05-27 08:59:38.356713432,William Humphreys Art Gallery,4487
+2020-05-27 08:59:38.356713432,Magersfontein Battlefield,4627
+2020-05-27 08:59:38.356713432,Ghost Tours & Historical Walks,2366
+2020-05-30 07:15:45.090180360,Kimberley Museum,3270
+2020-05-30 07:15:45.090180360,McGregor Museum,5128
+2020-05-30 07:15:45.090180360,William Humphreys Art Gallery,4424
+2020-05-30 07:15:45.090180360,Magersfontein Battlefield,6194
+2020-05-30 07:15:45.090180360,Ghost Tours & Historical Walks,3182
+2020-06-02 05:31:51.823647296,Kimberley Museum,3891
+2020-06-02 05:31:51.823647296,McGregor Museum,3000
+2020-06-02 05:31:51.823647296,William Humphreys Art Gallery,7117
+2020-06-02 05:31:51.823647296,Magersfontein Battlefield,6712
+2020-06-02 05:31:51.823647296,Ghost Tours & Historical Walks,2226
+2020-06-05 03:47:58.557114232,Kimberley Museum,6079
+2020-06-05 03:47:58.557114232,McGregor Museum,3776
+2020-06-05 03:47:58.557114232,William Humphreys Art Gallery,2772
+2020-06-05 03:47:58.557114232,Magersfontein Battlefield,4509
+2020-06-05 03:47:58.557114232,Ghost Tours & Historical Walks,4235
+2020-06-08 02:04:05.290581160,Kimberley Museum,5346
+2020-06-08 02:04:05.290581160,McGregor Museum,2782
+2020-06-08 02:04:05.290581160,William Humphreys Art Gallery,9351
+2020-06-08 02:04:05.290581160,Magersfontein Battlefield,3663
+2020-06-08 02:04:05.290581160,Ghost Tours & Historical Walks,6312
+2020-06-11 00:20:12.024048096,Kimberley Museum,6319
+2020-06-11 00:20:12.024048096,McGregor Museum,5665
+2020-06-11 00:20:12.024048096,William Humphreys Art Gallery,3996
+2020-06-11 00:20:12.024048096,Magersfontein Battlefield,3871
+2020-06-11 00:20:12.024048096,Ghost Tours & Historical Walks,7341
+2020-06-13 22:36:18.757515032,Kimberley Museum,7015
+2020-06-13 22:36:18.757515032,McGregor Museum,4378
+2020-06-13 22:36:18.757515032,William Humphreys Art Gallery,3591
+2020-06-13 22:36:18.757515032,Magersfontein Battlefield,5056
+2020-06-13 22:36:18.757515032,Ghost Tours & Historical Walks,6499
+2020-06-16 20:52:25.490981968,Kimberley Museum,4960
+2020-06-16 20:52:25.490981968,McGregor Museum,5553
+2020-06-16 20:52:25.490981968,William Humphreys Art Gallery,5144
+2020-06-16 20:52:25.490981968,Magersfontein Battlefield,2073
+2020-06-16 20:52:25.490981968,Ghost Tours & Historical Walks,6687
+2020-06-19 19:08:32.224448896,Kimberley Museum,4481
+2020-06-19 19:08:32.224448896,McGregor Museum,5803
+2020-06-19 19:08:32.224448896,William Humphreys Art Gallery,4691
+2020-06-19 19:08:32.224448896,Magersfontein Battlefield,4296
+2020-06-19 19:08:32.224448896,Ghost Tours & Historical Walks,2652
+2020-06-22 17:24:38.957915832,Kimberley Museum,7219
+2020-06-22 17:24:38.957915832,McGregor Museum,7251
+2020-06-22 17:24:38.957915832,William Humphreys Art Gallery,4849
+2020-06-22 17:24:38.957915832,Magersfontein Battlefield,4879
+2020-06-22 17:24:38.957915832,Ghost Tours & Historical Walks,5334
+2020-06-25 15:40:45.691382768,Kimberley Museum,4660
+2020-06-25 15:40:45.691382768,McGregor Museum,6591
+2020-06-25 15:40:45.691382768,William Humphreys Art Gallery,3501
+2020-06-25 15:40:45.691382768,Magersfontein Battlefield,4557
+2020-06-25 15:40:45.691382768,Ghost Tours & Historical Walks,7653
+2020-06-28 13:56:52.424849704,Kimberley Museum,4221
+2020-06-28 13:56:52.424849704,McGregor Museum,3073
+2020-06-28 13:56:52.424849704,William Humphreys Art Gallery,5163
+2020-06-28 13:56:52.424849704,Magersfontein Battlefield,6093
+2020-06-28 13:56:52.424849704,Ghost Tours & Historical Walks,583
+2020-07-01 12:12:59.158316632,Kimberley Museum,5881
+2020-07-01 12:12:59.158316632,McGregor Museum,4848
+2020-07-01 12:12:59.158316632,William Humphreys Art Gallery,6373
+2020-07-01 12:12:59.158316632,Magersfontein Battlefield,5682
+2020-07-01 12:12:59.158316632,Ghost Tours & Historical Walks,6135
+2020-07-04 10:29:05.891783568,Kimberley Museum,5653
+2020-07-04 10:29:05.891783568,McGregor Museum,3367
+2020-07-04 10:29:05.891783568,William Humphreys Art Gallery,4144
+2020-07-04 10:29:05.891783568,Magersfontein Battlefield,4270
+2020-07-04 10:29:05.891783568,Ghost Tours & Historical Walks,4247
+2020-07-07 08:45:12.625250504,Kimberley Museum,4544
+2020-07-07 08:45:12.625250504,McGregor Museum,7006
+2020-07-07 08:45:12.625250504,William Humphreys Art Gallery,6851
+2020-07-07 08:45:12.625250504,Magersfontein Battlefield,6901
+2020-07-07 08:45:12.625250504,Ghost Tours & Historical Walks,7095
+2020-07-10 07:01:19.358717440,Kimberley Museum,8021
+2020-07-10 07:01:19.358717440,McGregor Museum,4814
+2020-07-10 07:01:19.358717440,William Humphreys Art Gallery,4720
+2020-07-10 07:01:19.358717440,Magersfontein Battlefield,5938
+2020-07-10 07:01:19.358717440,Ghost Tours & Historical Walks,4064
+2020-07-13 05:17:26.092184368,Kimberley Museum,7130
+2020-07-13 05:17:26.092184368,McGregor Museum,6048
+2020-07-13 05:17:26.092184368,William Humphreys Art Gallery,6060
+2020-07-13 05:17:26.092184368,Magersfontein Battlefield,4166
+2020-07-13 05:17:26.092184368,Ghost Tours & Historical Walks,7435
+2020-07-16 03:33:32.825651304,Kimberley Museum,4549
+2020-07-16 03:33:32.825651304,McGregor Museum,5789
+2020-07-16 03:33:32.825651304,William Humphreys Art Gallery,4607
+2020-07-16 03:33:32.825651304,Magersfontein Battlefield,8229
+2020-07-16 03:33:32.825651304,Ghost Tours & Historical Walks,5519
+2020-07-19 01:49:39.559118240,Kimberley Museum,4448
+2020-07-19 01:49:39.559118240,McGregor Museum,4277
+2020-07-19 01:49:39.559118240,William Humphreys Art Gallery,3995
+2020-07-19 01:49:39.559118240,Magersfontein Battlefield,546
+2020-07-19 01:49:39.559118240,Ghost Tours & Historical Walks,7995
+2020-07-22 00:05:46.292585168,Kimberley Museum,4623
+2020-07-22 00:05:46.292585168,McGregor Museum,4364
+2020-07-22 00:05:46.292585168,William Humphreys Art Gallery,4221
+2020-07-22 00:05:46.292585168,Magersfontein Battlefield,4036
+2020-07-22 00:05:46.292585168,Ghost Tours & Historical Walks,2212
+2020-07-24 22:21:53.026052104,Kimberley Museum,3638
+2020-07-24 22:21:53.026052104,McGregor Museum,4834
+2020-07-24 22:21:53.026052104,William Humphreys Art Gallery,4313
+2020-07-24 22:21:53.026052104,Magersfontein Battlefield,3163
+2020-07-24 22:21:53.026052104,Ghost Tours & Historical Walks,4773
+2020-07-27 20:37:59.759519040,Kimberley Museum,6809
+2020-07-27 20:37:59.759519040,McGregor Museum,5772
+2020-07-27 20:37:59.759519040,William Humphreys Art Gallery,5770
+2020-07-27 20:37:59.759519040,Magersfontein Battlefield,5258
+2020-07-27 20:37:59.759519040,Ghost Tours & Historical Walks,959
+2020-07-30 18:54:06.492985976,Kimberley Museum,2541
+2020-07-30 18:54:06.492985976,McGregor Museum,5207
+2020-07-30 18:54:06.492985976,William Humphreys Art Gallery,6113
+2020-07-30 18:54:06.492985976,Magersfontein Battlefield,3888
+2020-07-30 18:54:06.492985976,Ghost Tours & Historical Walks,3515
+2020-08-02 17:10:13.226452904,Kimberley Museum,6147
+2020-08-02 17:10:13.226452904,McGregor Museum,6648
+2020-08-02 17:10:13.226452904,William Humphreys Art Gallery,2714
+2020-08-02 17:10:13.226452904,Magersfontein Battlefield,5872
+2020-08-02 17:10:13.226452904,Ghost Tours & Historical Walks,6128
+2020-08-05 15:26:19.959919840,Kimberley Museum,3968
+2020-08-05 15:26:19.959919840,McGregor Museum,5276
+2020-08-05 15:26:19.959919840,William Humphreys Art Gallery,4767
+2020-08-05 15:26:19.959919840,Magersfontein Battlefield,2781
+2020-08-05 15:26:19.959919840,Ghost Tours & Historical Walks,5900
+2020-08-08 13:42:26.693386776,Kimberley Museum,4009
+2020-08-08 13:42:26.693386776,McGregor Museum,4792
+2020-08-08 13:42:26.693386776,William Humphreys Art Gallery,5466
+2020-08-08 13:42:26.693386776,Magersfontein Battlefield,8855
+2020-08-08 13:42:26.693386776,Ghost Tours & Historical Walks,4818
+2020-08-11 11:58:33.426853712,Kimberley Museum,5060
+2020-08-11 11:58:33.426853712,McGregor Museum,6323
+2020-08-11 11:58:33.426853712,William Humphreys Art Gallery,2971
+2020-08-11 11:58:33.426853712,Magersfontein Battlefield,6623
+2020-08-11 11:58:33.426853712,Ghost Tours & Historical Walks,4856
+2020-08-14 10:14:40.160320640,Kimberley Museum,5666
+2020-08-14 10:14:40.160320640,McGregor Museum,4580
+2020-08-14 10:14:40.160320640,William Humphreys Art Gallery,2773
+2020-08-14 10:14:40.160320640,Magersfontein Battlefield,4996
+2020-08-14 10:14:40.160320640,Ghost Tours & Historical Walks,6800
+2020-08-17 08:30:46.893787576,Kimberley Museum,4864
+2020-08-17 08:30:46.893787576,McGregor Museum,3630
+2020-08-17 08:30:46.893787576,William Humphreys Art Gallery,3080
+2020-08-17 08:30:46.893787576,Magersfontein Battlefield,4779
+2020-08-17 08:30:46.893787576,Ghost Tours & Historical Walks,7209
+2020-08-20 06:46:53.627254512,Kimberley Museum,7678
+2020-08-20 06:46:53.627254512,McGregor Museum,5481
+2020-08-20 06:46:53.627254512,William Humphreys Art Gallery,3865
+2020-08-20 06:46:53.627254512,Magersfontein Battlefield,4465
+2020-08-20 06:46:53.627254512,Ghost Tours & Historical Walks,3623
+2020-08-23 05:03:00.360721448,Kimberley Museum,5784
+2020-08-23 05:03:00.360721448,McGregor Museum,5513
+2020-08-23 05:03:00.360721448,William Humphreys Art Gallery,5052
+2020-08-23 05:03:00.360721448,Magersfontein Battlefield,3223
+2020-08-23 05:03:00.360721448,Ghost Tours & Historical Walks,2606
+2020-08-26 03:19:07.094188376,Kimberley Museum,4252
+2020-08-26 03:19:07.094188376,McGregor Museum,6722
+2020-08-26 03:19:07.094188376,William Humphreys Art Gallery,5514
+2020-08-26 03:19:07.094188376,Magersfontein Battlefield,3667
+2020-08-26 03:19:07.094188376,Ghost Tours & Historical Walks,4054
+2020-08-29 01:35:13.827655312,Kimberley Museum,4255
+2020-08-29 01:35:13.827655312,McGregor Museum,2782
+2020-08-29 01:35:13.827655312,William Humphreys Art Gallery,5645
+2020-08-29 01:35:13.827655312,Magersfontein Battlefield,6907
+2020-08-29 01:35:13.827655312,Ghost Tours & Historical Walks,4607
+2020-08-31 23:51:20.561122248,Kimberley Museum,5831
+2020-08-31 23:51:20.561122248,McGregor Museum,2245
+2020-08-31 23:51:20.561122248,William Humphreys Art Gallery,4469
+2020-08-31 23:51:20.561122248,Magersfontein Battlefield,1869
+2020-08-31 23:51:20.561122248,Ghost Tours & Historical Walks,5474
+2020-09-03 22:07:27.294589176,Kimberley Museum,5220
+2020-09-03 22:07:27.294589176,McGregor Museum,3654
+2020-09-03 22:07:27.294589176,William Humphreys Art Gallery,2779
+2020-09-03 22:07:27.294589176,Magersfontein Battlefield,3704
+2020-09-03 22:07:27.294589176,Ghost Tours & Historical Walks,7684
+2020-09-06 20:23:34.028056112,Kimberley Museum,2972
+2020-09-06 20:23:34.028056112,McGregor Museum,5017
+2020-09-06 20:23:34.028056112,William Humphreys Art Gallery,4898
+2020-09-06 20:23:34.028056112,Magersfontein Battlefield,4731
+2020-09-06 20:23:34.028056112,Ghost Tours & Historical Walks,3571
+2020-09-09 18:39:40.761523048,Kimberley Museum,5332
+2020-09-09 18:39:40.761523048,McGregor Museum,4677
+2020-09-09 18:39:40.761523048,William Humphreys Art Gallery,5992
+2020-09-09 18:39:40.761523048,Magersfontein Battlefield,3300
+2020-09-09 18:39:40.761523048,Ghost Tours & Historical Walks,3217
+2020-09-12 16:55:47.494989984,Kimberley Museum,6757
+2020-09-12 16:55:47.494989984,McGregor Museum,5965
+2020-09-12 16:55:47.494989984,William Humphreys Art Gallery,5368
+2020-09-12 16:55:47.494989984,Magersfontein Battlefield,5867
+2020-09-12 16:55:47.494989984,Ghost Tours & Historical Walks,4152
+2020-09-15 15:11:54.228456912,Kimberley Museum,3485
+2020-09-15 15:11:54.228456912,McGregor Museum,4901
+2020-09-15 15:11:54.228456912,William Humphreys Art Gallery,4233
+2020-09-15 15:11:54.228456912,Magersfontein Battlefield,8067
+2020-09-15 15:11:54.228456912,Ghost Tours & Historical Walks,3761
+2020-09-18 13:28:00.961923848,Kimberley Museum,6556
+2020-09-18 13:28:00.961923848,McGregor Museum,4235
+2020-09-18 13:28:00.961923848,William Humphreys Art Gallery,5240
+2020-09-18 13:28:00.961923848,Magersfontein Battlefield,3322
+2020-09-18 13:28:00.961923848,Ghost Tours & Historical Walks,5395
+2020-09-21 11:44:07.695390784,Kimberley Museum,3310
+2020-09-21 11:44:07.695390784,McGregor Museum,6337
+2020-09-21 11:44:07.695390784,William Humphreys Art Gallery,3529
+2020-09-21 11:44:07.695390784,Magersfontein Battlefield,3615
+2020-09-21 11:44:07.695390784,Ghost Tours & Historical Walks,5132
+2020-09-24 10:00:14.428857720,Kimberley Museum,5950
+2020-09-24 10:00:14.428857720,McGregor Museum,7296
+2020-09-24 10:00:14.428857720,William Humphreys Art Gallery,5786
+2020-09-24 10:00:14.428857720,Magersfontein Battlefield,3533
+2020-09-24 10:00:14.428857720,Ghost Tours & Historical Walks,4336
+2020-09-27 08:16:21.162324648,Kimberley Museum,4420
+2020-09-27 08:16:21.162324648,McGregor Museum,6692
+2020-09-27 08:16:21.162324648,William Humphreys Art Gallery,5273
+2020-09-27 08:16:21.162324648,Magersfontein Battlefield,5458
+2020-09-27 08:16:21.162324648,Ghost Tours & Historical Walks,2965
+2020-09-30 06:32:27.895791584,Kimberley Museum,8081
+2020-09-30 06:32:27.895791584,McGregor Museum,4099
+2020-09-30 06:32:27.895791584,William Humphreys Art Gallery,6224
+2020-09-30 06:32:27.895791584,Magersfontein Battlefield,5067
+2020-09-30 06:32:27.895791584,Ghost Tours & Historical Walks,3834
+2020-10-03 04:48:34.629258520,Kimberley Museum,6346
+2020-10-03 04:48:34.629258520,McGregor Museum,6442
+2020-10-03 04:48:34.629258520,William Humphreys Art Gallery,5173
+2020-10-03 04:48:34.629258520,Magersfontein Battlefield,6358
+2020-10-03 04:48:34.629258520,Ghost Tours & Historical Walks,3847
+2020-10-06 03:04:41.362725456,Kimberley Museum,4667
+2020-10-06 03:04:41.362725456,McGregor Museum,4340
+2020-10-06 03:04:41.362725456,William Humphreys Art Gallery,3332
+2020-10-06 03:04:41.362725456,Magersfontein Battlefield,3043
+2020-10-06 03:04:41.362725456,Ghost Tours & Historical Walks,5407
+2020-10-09 01:20:48.096192384,Kimberley Museum,5518
+2020-10-09 01:20:48.096192384,McGregor Museum,6950
+2020-10-09 01:20:48.096192384,William Humphreys Art Gallery,5942
+2020-10-09 01:20:48.096192384,Magersfontein Battlefield,3136
+2020-10-09 01:20:48.096192384,Ghost Tours & Historical Walks,2645
+2020-10-11 23:36:54.829659320,Kimberley Museum,5734
+2020-10-11 23:36:54.829659320,McGregor Museum,4629
+2020-10-11 23:36:54.829659320,William Humphreys Art Gallery,1263
+2020-10-11 23:36:54.829659320,Magersfontein Battlefield,8242
+2020-10-11 23:36:54.829659320,Ghost Tours & Historical Walks,5238
+2020-10-14 21:53:01.563126256,Kimberley Museum,4773
+2020-10-14 21:53:01.563126256,McGregor Museum,6140
+2020-10-14 21:53:01.563126256,William Humphreys Art Gallery,4022
+2020-10-14 21:53:01.563126256,Magersfontein Battlefield,3504
+2020-10-14 21:53:01.563126256,Ghost Tours & Historical Walks,5814
+2020-10-17 20:09:08.296593184,Kimberley Museum,6426
+2020-10-17 20:09:08.296593184,McGregor Museum,3202
+2020-10-17 20:09:08.296593184,William Humphreys Art Gallery,6010
+2020-10-17 20:09:08.296593184,Magersfontein Battlefield,7955
+2020-10-17 20:09:08.296593184,Ghost Tours & Historical Walks,6208
+2020-10-20 18:25:15.030060120,Kimberley Museum,4171
+2020-10-20 18:25:15.030060120,McGregor Museum,1921
+2020-10-20 18:25:15.030060120,William Humphreys Art Gallery,6607
+2020-10-20 18:25:15.030060120,Magersfontein Battlefield,4911
+2020-10-20 18:25:15.030060120,Ghost Tours & Historical Walks,5728
+2020-10-23 16:41:21.763527056,Kimberley Museum,5783
+2020-10-23 16:41:21.763527056,McGregor Museum,4630
+2020-10-23 16:41:21.763527056,William Humphreys Art Gallery,3283
+2020-10-23 16:41:21.763527056,Magersfontein Battlefield,5186
+2020-10-23 16:41:21.763527056,Ghost Tours & Historical Walks,1802
+2020-10-26 14:57:28.496993992,Kimberley Museum,6490
+2020-10-26 14:57:28.496993992,McGregor Museum,5103
+2020-10-26 14:57:28.496993992,William Humphreys Art Gallery,4673
+2020-10-26 14:57:28.496993992,Magersfontein Battlefield,1496
+2020-10-26 14:57:28.496993992,Ghost Tours & Historical Walks,7685
+2020-10-29 13:13:35.230460920,Kimberley Museum,7662
+2020-10-29 13:13:35.230460920,McGregor Museum,3745
+2020-10-29 13:13:35.230460920,William Humphreys Art Gallery,3406
+2020-10-29 13:13:35.230460920,Magersfontein Battlefield,4239
+2020-10-29 13:13:35.230460920,Ghost Tours & Historical Walks,5412
+2020-11-01 11:29:41.963927856,Kimberley Museum,4414
+2020-11-01 11:29:41.963927856,McGregor Museum,2970
+2020-11-01 11:29:41.963927856,William Humphreys Art Gallery,3837
+2020-11-01 11:29:41.963927856,Magersfontein Battlefield,4704
+2020-11-01 11:29:41.963927856,Ghost Tours & Historical Walks,4917
+2020-11-04 09:45:48.697394792,Kimberley Museum,4640
+2020-11-04 09:45:48.697394792,McGregor Museum,4685
+2020-11-04 09:45:48.697394792,William Humphreys Art Gallery,4322
+2020-11-04 09:45:48.697394792,Magersfontein Battlefield,2490
+2020-11-04 09:45:48.697394792,Ghost Tours & Historical Walks,5022
+2020-11-07 08:01:55.430861728,Kimberley Museum,4239
+2020-11-07 08:01:55.430861728,McGregor Museum,6028
+2020-11-07 08:01:55.430861728,William Humphreys Art Gallery,4797
+2020-11-07 08:01:55.430861728,Magersfontein Battlefield,1555
+2020-11-07 08:01:55.430861728,Ghost Tours & Historical Walks,4179
+2020-11-10 06:18:02.164328656,Kimberley Museum,3651
+2020-11-10 06:18:02.164328656,McGregor Museum,5410
+2020-11-10 06:18:02.164328656,William Humphreys Art Gallery,6309
+2020-11-10 06:18:02.164328656,Magersfontein Battlefield,3326
+2020-11-10 06:18:02.164328656,Ghost Tours & Historical Walks,3325
+2020-11-13 04:34:08.897795592,Kimberley Museum,4798
+2020-11-13 04:34:08.897795592,McGregor Museum,4599
+2020-11-13 04:34:08.897795592,William Humphreys Art Gallery,2835
+2020-11-13 04:34:08.897795592,Magersfontein Battlefield,5136
+2020-11-13 04:34:08.897795592,Ghost Tours & Historical Walks,4430
+2020-11-16 02:50:15.631262528,Kimberley Museum,3986
+2020-11-16 02:50:15.631262528,McGregor Museum,3708
+2020-11-16 02:50:15.631262528,William Humphreys Art Gallery,5511
+2020-11-16 02:50:15.631262528,Magersfontein Battlefield,4700
+2020-11-16 02:50:15.631262528,Ghost Tours & Historical Walks,4337
+2020-11-19 01:06:22.364729464,Kimberley Museum,2959
+2020-11-19 01:06:22.364729464,McGregor Museum,4270
+2020-11-19 01:06:22.364729464,William Humphreys Art Gallery,7110
+2020-11-19 01:06:22.364729464,Magersfontein Battlefield,4094
+2020-11-19 01:06:22.364729464,Ghost Tours & Historical Walks,6820
+2020-11-21 23:22:29.098196392,Kimberley Museum,4199
+2020-11-21 23:22:29.098196392,McGregor Museum,6110
+2020-11-21 23:22:29.098196392,William Humphreys Art Gallery,3847
+2020-11-21 23:22:29.098196392,Magersfontein Battlefield,5639
+2020-11-21 23:22:29.098196392,Ghost Tours & Historical Walks,4869
+2020-11-24 21:38:35.831663328,Kimberley Museum,7219
+2020-11-24 21:38:35.831663328,McGregor Museum,2801
+2020-11-24 21:38:35.831663328,William Humphreys Art Gallery,8544
+2020-11-24 21:38:35.831663328,Magersfontein Battlefield,3487
+2020-11-24 21:38:35.831663328,Ghost Tours & Historical Walks,4863
+2020-11-27 19:54:42.565130264,Kimberley Museum,4856
+2020-11-27 19:54:42.565130264,McGregor Museum,5046
+2020-11-27 19:54:42.565130264,William Humphreys Art Gallery,5503
+2020-11-27 19:54:42.565130264,Magersfontein Battlefield,4488
+2020-11-27 19:54:42.565130264,Ghost Tours & Historical Walks,6417
+2020-11-30 18:10:49.298597200,Kimberley Museum,4743
+2020-11-30 18:10:49.298597200,McGregor Museum,8371
+2020-11-30 18:10:49.298597200,William Humphreys Art Gallery,6021
+2020-11-30 18:10:49.298597200,Magersfontein Battlefield,7074
+2020-11-30 18:10:49.298597200,Ghost Tours & Historical Walks,8338
+2020-12-03 16:26:56.032064128,Kimberley Museum,3633
+2020-12-03 16:26:56.032064128,McGregor Museum,4875
+2020-12-03 16:26:56.032064128,William Humphreys Art Gallery,5784
+2020-12-03 16:26:56.032064128,Magersfontein Battlefield,5115
+2020-12-03 16:26:56.032064128,Ghost Tours & Historical Walks,7030
+2020-12-06 14:43:02.765531064,Kimberley Museum,3202
+2020-12-06 14:43:02.765531064,McGregor Museum,2645
+2020-12-06 14:43:02.765531064,William Humphreys Art Gallery,6771
+2020-12-06 14:43:02.765531064,Magersfontein Battlefield,4882
+2020-12-06 14:43:02.765531064,Ghost Tours & Historical Walks,5880
+2020-12-09 12:59:09.498998000,Kimberley Museum,8323
+2020-12-09 12:59:09.498998000,McGregor Museum,4377
+2020-12-09 12:59:09.498998000,William Humphreys Art Gallery,1433
+2020-12-09 12:59:09.498998000,Magersfontein Battlefield,5475
+2020-12-09 12:59:09.498998000,Ghost Tours & Historical Walks,8050
+2020-12-12 11:15:16.232464928,Kimberley Museum,3591
+2020-12-12 11:15:16.232464928,McGregor Museum,5130
+2020-12-12 11:15:16.232464928,William Humphreys Art Gallery,5571
+2020-12-12 11:15:16.232464928,Magersfontein Battlefield,4496
+2020-12-12 11:15:16.232464928,Ghost Tours & Historical Walks,6188
+2020-12-15 09:31:22.965931864,Kimberley Museum,7253
+2020-12-15 09:31:22.965931864,McGregor Museum,3810
+2020-12-15 09:31:22.965931864,William Humphreys Art Gallery,6001
+2020-12-15 09:31:22.965931864,Magersfontein Battlefield,5795
+2020-12-15 09:31:22.965931864,Ghost Tours & Historical Walks,5704
+2020-12-18 07:47:29.699398800,Kimberley Museum,6566
+2020-12-18 07:47:29.699398800,McGregor Museum,5309
+2020-12-18 07:47:29.699398800,William Humphreys Art Gallery,5479
+2020-12-18 07:47:29.699398800,Magersfontein Battlefield,5011
+2020-12-18 07:47:29.699398800,Ghost Tours & Historical Walks,7073
+2020-12-21 06:03:36.432865736,Kimberley Museum,3900
+2020-12-21 06:03:36.432865736,McGregor Museum,4661
+2020-12-21 06:03:36.432865736,William Humphreys Art Gallery,6807
+2020-12-21 06:03:36.432865736,Magersfontein Battlefield,5320
+2020-12-21 06:03:36.432865736,Ghost Tours & Historical Walks,5099
+2020-12-24 04:19:43.166332664,Kimberley Museum,3909
+2020-12-24 04:19:43.166332664,McGregor Museum,6204
+2020-12-24 04:19:43.166332664,William Humphreys Art Gallery,5034
+2020-12-24 04:19:43.166332664,Magersfontein Battlefield,5488
+2020-12-24 04:19:43.166332664,Ghost Tours & Historical Walks,3687
+2020-12-27 02:35:49.899799600,Kimberley Museum,4489
+2020-12-27 02:35:49.899799600,McGregor Museum,4657
+2020-12-27 02:35:49.899799600,William Humphreys Art Gallery,2934
+2020-12-27 02:35:49.899799600,Magersfontein Battlefield,7331
+2020-12-27 02:35:49.899799600,Ghost Tours & Historical Walks,3987
+2020-12-30 00:51:56.633266536,Kimberley Museum,5492
+2020-12-30 00:51:56.633266536,McGregor Museum,5781
+2020-12-30 00:51:56.633266536,William Humphreys Art Gallery,4683
+2020-12-30 00:51:56.633266536,Magersfontein Battlefield,2300
+2020-12-30 00:51:56.633266536,Ghost Tours & Historical Walks,6916
+2021-01-01 23:08:03.366733472,Kimberley Museum,6627
+2021-01-01 23:08:03.366733472,McGregor Museum,5278
+2021-01-01 23:08:03.366733472,William Humphreys Art Gallery,3609
+2021-01-01 23:08:03.366733472,Magersfontein Battlefield,4187
+2021-01-01 23:08:03.366733472,Ghost Tours & Historical Walks,6252
+2021-01-04 21:24:10.100200400,Kimberley Museum,4592
+2021-01-04 21:24:10.100200400,McGregor Museum,8133
+2021-01-04 21:24:10.100200400,William Humphreys Art Gallery,8483
+2021-01-04 21:24:10.100200400,Magersfontein Battlefield,6076
+2021-01-04 21:24:10.100200400,Ghost Tours & Historical Walks,4410
+2021-01-07 19:40:16.833667336,Kimberley Museum,6928
+2021-01-07 19:40:16.833667336,McGregor Museum,3975
+2021-01-07 19:40:16.833667336,William Humphreys Art Gallery,6457
+2021-01-07 19:40:16.833667336,Magersfontein Battlefield,7246
+2021-01-07 19:40:16.833667336,Ghost Tours & Historical Walks,4703
+2021-01-10 17:56:23.567134272,Kimberley Museum,5865
+2021-01-10 17:56:23.567134272,McGregor Museum,5790
+2021-01-10 17:56:23.567134272,William Humphreys Art Gallery,4201
+2021-01-10 17:56:23.567134272,Magersfontein Battlefield,4055
+2021-01-10 17:56:23.567134272,Ghost Tours & Historical Walks,5107
+2021-01-13 16:12:30.300601208,Kimberley Museum,7362
+2021-01-13 16:12:30.300601208,McGregor Museum,2764
+2021-01-13 16:12:30.300601208,William Humphreys Art Gallery,5180
+2021-01-13 16:12:30.300601208,Magersfontein Battlefield,6472
+2021-01-13 16:12:30.300601208,Ghost Tours & Historical Walks,6189
+2021-01-16 14:28:37.034068136,Kimberley Museum,6315
+2021-01-16 14:28:37.034068136,McGregor Museum,4968
+2021-01-16 14:28:37.034068136,William Humphreys Art Gallery,7703
+2021-01-16 14:28:37.034068136,Magersfontein Battlefield,6222
+2021-01-16 14:28:37.034068136,Ghost Tours & Historical Walks,4190
+2021-01-19 12:44:43.767535072,Kimberley Museum,7425
+2021-01-19 12:44:43.767535072,McGregor Museum,7052
+2021-01-19 12:44:43.767535072,William Humphreys Art Gallery,2800
+2021-01-19 12:44:43.767535072,Magersfontein Battlefield,4791
+2021-01-19 12:44:43.767535072,Ghost Tours & Historical Walks,6503
+2021-01-22 11:00:50.501002008,Kimberley Museum,6889
+2021-01-22 11:00:50.501002008,McGregor Museum,4286
+2021-01-22 11:00:50.501002008,William Humphreys Art Gallery,6121
+2021-01-22 11:00:50.501002008,Magersfontein Battlefield,5746
+2021-01-22 11:00:50.501002008,Ghost Tours & Historical Walks,4280
+2021-01-25 09:16:57.234468936,Kimberley Museum,4816
+2021-01-25 09:16:57.234468936,McGregor Museum,6318
+2021-01-25 09:16:57.234468936,William Humphreys Art Gallery,5905
+2021-01-25 09:16:57.234468936,Magersfontein Battlefield,4190
+2021-01-25 09:16:57.234468936,Ghost Tours & Historical Walks,4374
+2021-01-28 07:33:03.967935872,Kimberley Museum,4065
+2021-01-28 07:33:03.967935872,McGregor Museum,5649
+2021-01-28 07:33:03.967935872,William Humphreys Art Gallery,2743
+2021-01-28 07:33:03.967935872,Magersfontein Battlefield,6140
+2021-01-28 07:33:03.967935872,Ghost Tours & Historical Walks,5536
+2021-01-31 05:49:10.701402808,Kimberley Museum,3835
+2021-01-31 05:49:10.701402808,McGregor Museum,4652
+2021-01-31 05:49:10.701402808,William Humphreys Art Gallery,6523
+2021-01-31 05:49:10.701402808,Magersfontein Battlefield,7439
+2021-01-31 05:49:10.701402808,Ghost Tours & Historical Walks,4524
+2021-02-03 04:05:17.434869744,Kimberley Museum,6866
+2021-02-03 04:05:17.434869744,McGregor Museum,7310
+2021-02-03 04:05:17.434869744,William Humphreys Art Gallery,7626
+2021-02-03 04:05:17.434869744,Magersfontein Battlefield,5485
+2021-02-03 04:05:17.434869744,Ghost Tours & Historical Walks,2104
+2021-02-06 02:21:24.168336672,Kimberley Museum,4513
+2021-02-06 02:21:24.168336672,McGregor Museum,3563
+2021-02-06 02:21:24.168336672,William Humphreys Art Gallery,6106
+2021-02-06 02:21:24.168336672,Magersfontein Battlefield,2398
+2021-02-06 02:21:24.168336672,Ghost Tours & Historical Walks,6313
+2021-02-09 00:37:30.901803608,Kimberley Museum,8267
+2021-02-09 00:37:30.901803608,McGregor Museum,7010
+2021-02-09 00:37:30.901803608,William Humphreys Art Gallery,6285
+2021-02-09 00:37:30.901803608,Magersfontein Battlefield,5925
+2021-02-09 00:37:30.901803608,Ghost Tours & Historical Walks,5740
+2021-02-11 22:53:37.635270544,Kimberley Museum,4371
+2021-02-11 22:53:37.635270544,McGregor Museum,5484
+2021-02-11 22:53:37.635270544,William Humphreys Art Gallery,3568
+2021-02-11 22:53:37.635270544,Magersfontein Battlefield,4576
+2021-02-11 22:53:37.635270544,Ghost Tours & Historical Walks,4893
+2021-02-14 21:09:44.368737480,Kimberley Museum,5218
+2021-02-14 21:09:44.368737480,McGregor Museum,7090
+2021-02-14 21:09:44.368737480,William Humphreys Art Gallery,3939
+2021-02-14 21:09:44.368737480,Magersfontein Battlefield,4621
+2021-02-14 21:09:44.368737480,Ghost Tours & Historical Walks,4274
+2021-02-17 19:25:51.102204408,Kimberley Museum,4180
+2021-02-17 19:25:51.102204408,McGregor Museum,4646
+2021-02-17 19:25:51.102204408,William Humphreys Art Gallery,5333
+2021-02-17 19:25:51.102204408,Magersfontein Battlefield,5289
+2021-02-17 19:25:51.102204408,Ghost Tours & Historical Walks,4712
+2021-02-20 17:41:57.835671344,Kimberley Museum,3461
+2021-02-20 17:41:57.835671344,McGregor Museum,5376
+2021-02-20 17:41:57.835671344,William Humphreys Art Gallery,3118
+2021-02-20 17:41:57.835671344,Magersfontein Battlefield,6687
+2021-02-20 17:41:57.835671344,Ghost Tours & Historical Walks,4799
+2021-02-23 15:58:04.569138280,Kimberley Museum,5031
+2021-02-23 15:58:04.569138280,McGregor Museum,6373
+2021-02-23 15:58:04.569138280,William Humphreys Art Gallery,5188
+2021-02-23 15:58:04.569138280,Magersfontein Battlefield,2918
+2021-02-23 15:58:04.569138280,Ghost Tours & Historical Walks,3044
+2021-02-26 14:14:11.302605216,Kimberley Museum,6644
+2021-02-26 14:14:11.302605216,McGregor Museum,6564
+2021-02-26 14:14:11.302605216,William Humphreys Art Gallery,2884
+2021-02-26 14:14:11.302605216,Magersfontein Battlefield,5913
+2021-02-26 14:14:11.302605216,Ghost Tours & Historical Walks,4111
+2021-03-01 12:30:18.036072144,Kimberley Museum,2422
+2021-03-01 12:30:18.036072144,McGregor Museum,4491
+2021-03-01 12:30:18.036072144,William Humphreys Art Gallery,5804
+2021-03-01 12:30:18.036072144,Magersfontein Battlefield,4508
+2021-03-01 12:30:18.036072144,Ghost Tours & Historical Walks,5390
+2021-03-04 10:46:24.769539080,Kimberley Museum,1636
+2021-03-04 10:46:24.769539080,McGregor Museum,7628
+2021-03-04 10:46:24.769539080,William Humphreys Art Gallery,4203
+2021-03-04 10:46:24.769539080,Magersfontein Battlefield,5162
+2021-03-04 10:46:24.769539080,Ghost Tours & Historical Walks,4630
+2021-03-07 09:02:31.503006016,Kimberley Museum,5587
+2021-03-07 09:02:31.503006016,McGregor Museum,5083
+2021-03-07 09:02:31.503006016,William Humphreys Art Gallery,4147
+2021-03-07 09:02:31.503006016,Magersfontein Battlefield,5723
+2021-03-07 09:02:31.503006016,Ghost Tours & Historical Walks,3855
+2021-03-10 07:18:38.236472944,Kimberley Museum,5682
+2021-03-10 07:18:38.236472944,McGregor Museum,5145
+2021-03-10 07:18:38.236472944,William Humphreys Art Gallery,4605
+2021-03-10 07:18:38.236472944,Magersfontein Battlefield,5494
+2021-03-10 07:18:38.236472944,Ghost Tours & Historical Walks,3914
+2021-03-13 05:34:44.969939880,Kimberley Museum,7677
+2021-03-13 05:34:44.969939880,McGregor Museum,4047
+2021-03-13 05:34:44.969939880,William Humphreys Art Gallery,3014
+2021-03-13 05:34:44.969939880,Magersfontein Battlefield,1906
+2021-03-13 05:34:44.969939880,Ghost Tours & Historical Walks,5308
+2021-03-16 03:50:51.703406816,Kimberley Museum,5037
+2021-03-16 03:50:51.703406816,McGregor Museum,2942
+2021-03-16 03:50:51.703406816,William Humphreys Art Gallery,6041
+2021-03-16 03:50:51.703406816,Magersfontein Battlefield,4199
+2021-03-16 03:50:51.703406816,Ghost Tours & Historical Walks,4951
+2021-03-19 02:06:58.436873752,Kimberley Museum,6151
+2021-03-19 02:06:58.436873752,McGregor Museum,5889
+2021-03-19 02:06:58.436873752,William Humphreys Art Gallery,3319
+2021-03-19 02:06:58.436873752,Magersfontein Battlefield,5555
+2021-03-19 02:06:58.436873752,Ghost Tours & Historical Walks,3359
+2021-03-22 00:23:05.170340680,Kimberley Museum,4630
+2021-03-22 00:23:05.170340680,McGregor Museum,4845
+2021-03-22 00:23:05.170340680,William Humphreys Art Gallery,5219
+2021-03-22 00:23:05.170340680,Magersfontein Battlefield,6072
+2021-03-22 00:23:05.170340680,Ghost Tours & Historical Walks,5189
+2021-03-24 22:39:11.903807616,Kimberley Museum,5183
+2021-03-24 22:39:11.903807616,McGregor Museum,4154
+2021-03-24 22:39:11.903807616,William Humphreys Art Gallery,3364
+2021-03-24 22:39:11.903807616,Magersfontein Battlefield,3522
+2021-03-24 22:39:11.903807616,Ghost Tours & Historical Walks,6628
+2021-03-27 20:55:18.637274552,Kimberley Museum,7700
+2021-03-27 20:55:18.637274552,McGregor Museum,6426
+2021-03-27 20:55:18.637274552,William Humphreys Art Gallery,2190
+2021-03-27 20:55:18.637274552,Magersfontein Battlefield,6606
+2021-03-27 20:55:18.637274552,Ghost Tours & Historical Walks,7060
+2021-03-30 19:11:25.370741488,Kimberley Museum,2385
+2021-03-30 19:11:25.370741488,McGregor Museum,5240
+2021-03-30 19:11:25.370741488,William Humphreys Art Gallery,4639
+2021-03-30 19:11:25.370741488,Magersfontein Battlefield,3677
+2021-03-30 19:11:25.370741488,Ghost Tours & Historical Walks,3639
+2021-04-02 17:27:32.104208416,Kimberley Museum,2352
+2021-04-02 17:27:32.104208416,McGregor Museum,4515
+2021-04-02 17:27:32.104208416,William Humphreys Art Gallery,5164
+2021-04-02 17:27:32.104208416,Magersfontein Battlefield,4091
+2021-04-02 17:27:32.104208416,Ghost Tours & Historical Walks,4664
+2021-04-05 15:43:38.837675352,Kimberley Museum,2960
+2021-04-05 15:43:38.837675352,McGregor Museum,5931
+2021-04-05 15:43:38.837675352,William Humphreys Art Gallery,6773
+2021-04-05 15:43:38.837675352,Magersfontein Battlefield,2671
+2021-04-05 15:43:38.837675352,Ghost Tours & Historical Walks,4722
+2021-04-08 13:59:45.571142288,Kimberley Museum,4052
+2021-04-08 13:59:45.571142288,McGregor Museum,6913
+2021-04-08 13:59:45.571142288,William Humphreys Art Gallery,6688
+2021-04-08 13:59:45.571142288,Magersfontein Battlefield,4969
+2021-04-08 13:59:45.571142288,Ghost Tours & Historical Walks,3019
+2021-04-11 12:15:52.304609224,Kimberley Museum,5754
+2021-04-11 12:15:52.304609224,McGregor Museum,6921
+2021-04-11 12:15:52.304609224,William Humphreys Art Gallery,3761
+2021-04-11 12:15:52.304609224,Magersfontein Battlefield,6282
+2021-04-11 12:15:52.304609224,Ghost Tours & Historical Walks,3551
+2021-04-14 10:31:59.038076160,Kimberley Museum,4371
+2021-04-14 10:31:59.038076160,McGregor Museum,6801
+2021-04-14 10:31:59.038076160,William Humphreys Art Gallery,4230
+2021-04-14 10:31:59.038076160,Magersfontein Battlefield,4341
+2021-04-14 10:31:59.038076160,Ghost Tours & Historical Walks,6853
+2021-04-17 08:48:05.771543088,Kimberley Museum,8408
+2021-04-17 08:48:05.771543088,McGregor Museum,3202
+2021-04-17 08:48:05.771543088,William Humphreys Art Gallery,6771
+2021-04-17 08:48:05.771543088,Magersfontein Battlefield,4625
+2021-04-17 08:48:05.771543088,Ghost Tours & Historical Walks,2697
+2021-04-20 07:04:12.505010016,Kimberley Museum,4670
+2021-04-20 07:04:12.505010016,McGregor Museum,1405
+2021-04-20 07:04:12.505010016,William Humphreys Art Gallery,4183
+2021-04-20 07:04:12.505010016,Magersfontein Battlefield,4507
+2021-04-20 07:04:12.505010016,Ghost Tours & Historical Walks,4760
+2021-04-23 05:20:19.238476960,Kimberley Museum,6338
+2021-04-23 05:20:19.238476960,McGregor Museum,5104
+2021-04-23 05:20:19.238476960,William Humphreys Art Gallery,5483
+2021-04-23 05:20:19.238476960,Magersfontein Battlefield,1822
+2021-04-23 05:20:19.238476960,Ghost Tours & Historical Walks,4751
+2021-04-26 03:36:25.971943888,Kimberley Museum,4923
+2021-04-26 03:36:25.971943888,McGregor Museum,5896
+2021-04-26 03:36:25.971943888,William Humphreys Art Gallery,4675
+2021-04-26 03:36:25.971943888,Magersfontein Battlefield,5290
+2021-04-26 03:36:25.971943888,Ghost Tours & Historical Walks,3009
+2021-04-29 01:52:32.705410816,Kimberley Museum,8552
+2021-04-29 01:52:32.705410816,McGregor Museum,5640
+2021-04-29 01:52:32.705410816,William Humphreys Art Gallery,2554
+2021-04-29 01:52:32.705410816,Magersfontein Battlefield,5666
+2021-04-29 01:52:32.705410816,Ghost Tours & Historical Walks,6612
+2021-05-02 00:08:39.438877760,Kimberley Museum,5169
+2021-05-02 00:08:39.438877760,McGregor Museum,6818
+2021-05-02 00:08:39.438877760,William Humphreys Art Gallery,3053
+2021-05-02 00:08:39.438877760,Magersfontein Battlefield,3288
+2021-05-02 00:08:39.438877760,Ghost Tours & Historical Walks,6148
+2021-05-04 22:24:46.172344688,Kimberley Museum,3859
+2021-05-04 22:24:46.172344688,McGregor Museum,5768
+2021-05-04 22:24:46.172344688,William Humphreys Art Gallery,4376
+2021-05-04 22:24:46.172344688,Magersfontein Battlefield,5668
+2021-05-04 22:24:46.172344688,Ghost Tours & Historical Walks,5738
+2021-05-07 20:40:52.905811632,Kimberley Museum,5575
+2021-05-07 20:40:52.905811632,McGregor Museum,3800
+2021-05-07 20:40:52.905811632,William Humphreys Art Gallery,8200
+2021-05-07 20:40:52.905811632,Magersfontein Battlefield,3971
+2021-05-07 20:40:52.905811632,Ghost Tours & Historical Walks,5188
+2021-05-10 18:56:59.639278560,Kimberley Museum,6576
+2021-05-10 18:56:59.639278560,McGregor Museum,1060
+2021-05-10 18:56:59.639278560,William Humphreys Art Gallery,7548
+2021-05-10 18:56:59.639278560,Magersfontein Battlefield,5618
+2021-05-10 18:56:59.639278560,Ghost Tours & Historical Walks,3563
+2021-05-13 17:13:06.372745488,Kimberley Museum,4237
+2021-05-13 17:13:06.372745488,McGregor Museum,4774
+2021-05-13 17:13:06.372745488,William Humphreys Art Gallery,3842
+2021-05-13 17:13:06.372745488,Magersfontein Battlefield,2671
+2021-05-13 17:13:06.372745488,Ghost Tours & Historical Walks,5722
+2021-05-16 15:29:13.106212432,Kimberley Museum,4596
+2021-05-16 15:29:13.106212432,McGregor Museum,6487
+2021-05-16 15:29:13.106212432,William Humphreys Art Gallery,4138
+2021-05-16 15:29:13.106212432,Magersfontein Battlefield,2897
+2021-05-16 15:29:13.106212432,Ghost Tours & Historical Walks,3213
+2021-05-19 13:45:19.839679360,Kimberley Museum,4674
+2021-05-19 13:45:19.839679360,McGregor Museum,6974
+2021-05-19 13:45:19.839679360,William Humphreys Art Gallery,5019
+2021-05-19 13:45:19.839679360,Magersfontein Battlefield,4329
+2021-05-19 13:45:19.839679360,Ghost Tours & Historical Walks,1807
+2021-05-22 12:01:26.573146288,Kimberley Museum,3929
+2021-05-22 12:01:26.573146288,McGregor Museum,5837
+2021-05-22 12:01:26.573146288,William Humphreys Art Gallery,6832
+2021-05-22 12:01:26.573146288,Magersfontein Battlefield,2551
+2021-05-22 12:01:26.573146288,Ghost Tours & Historical Walks,2769
+2021-05-25 10:17:33.306613232,Kimberley Museum,7688
+2021-05-25 10:17:33.306613232,McGregor Museum,3380
+2021-05-25 10:17:33.306613232,William Humphreys Art Gallery,2201
+2021-05-25 10:17:33.306613232,Magersfontein Battlefield,6051
+2021-05-25 10:17:33.306613232,Ghost Tours & Historical Walks,4583
+2021-05-28 08:33:40.040080160,Kimberley Museum,3805
+2021-05-28 08:33:40.040080160,McGregor Museum,3185
+2021-05-28 08:33:40.040080160,William Humphreys Art Gallery,4784
+2021-05-28 08:33:40.040080160,Magersfontein Battlefield,5922
+2021-05-28 08:33:40.040080160,Ghost Tours & Historical Walks,4259
+2021-05-31 06:49:46.773547104,Kimberley Museum,6624
+2021-05-31 06:49:46.773547104,McGregor Museum,6375
+2021-05-31 06:49:46.773547104,William Humphreys Art Gallery,6161
+2021-05-31 06:49:46.773547104,Magersfontein Battlefield,6841
+2021-05-31 06:49:46.773547104,Ghost Tours & Historical Walks,6817
+2021-06-03 05:05:53.507014032,Kimberley Museum,5341
+2021-06-03 05:05:53.507014032,McGregor Museum,3341
+2021-06-03 05:05:53.507014032,William Humphreys Art Gallery,3864
+2021-06-03 05:05:53.507014032,Magersfontein Battlefield,6526
+2021-06-03 05:05:53.507014032,Ghost Tours & Historical Walks,5401
+2021-06-06 03:22:00.240480960,Kimberley Museum,3514
+2021-06-06 03:22:00.240480960,McGregor Museum,3767
+2021-06-06 03:22:00.240480960,William Humphreys Art Gallery,4075
+2021-06-06 03:22:00.240480960,Magersfontein Battlefield,7898
+2021-06-06 03:22:00.240480960,Ghost Tours & Historical Walks,5145
+2021-06-09 01:38:06.973947904,Kimberley Museum,2328
+2021-06-09 01:38:06.973947904,McGregor Museum,6052
+2021-06-09 01:38:06.973947904,William Humphreys Art Gallery,6792
+2021-06-09 01:38:06.973947904,Magersfontein Battlefield,6438
+2021-06-09 01:38:06.973947904,Ghost Tours & Historical Walks,6489
+2021-06-11 23:54:13.707414832,Kimberley Museum,3185
+2021-06-11 23:54:13.707414832,McGregor Museum,8827
+2021-06-11 23:54:13.707414832,William Humphreys Art Gallery,4042
+2021-06-11 23:54:13.707414832,Magersfontein Battlefield,4773
+2021-06-11 23:54:13.707414832,Ghost Tours & Historical Walks,7505
+2021-06-14 22:10:20.440881760,Kimberley Museum,5465
+2021-06-14 22:10:20.440881760,McGregor Museum,3597
+2021-06-14 22:10:20.440881760,William Humphreys Art Gallery,8638
+2021-06-14 22:10:20.440881760,Magersfontein Battlefield,5474
+2021-06-14 22:10:20.440881760,Ghost Tours & Historical Walks,4590
+2021-06-17 20:26:27.174348704,Kimberley Museum,5392
+2021-06-17 20:26:27.174348704,McGregor Museum,3181
+2021-06-17 20:26:27.174348704,William Humphreys Art Gallery,4677
+2021-06-17 20:26:27.174348704,Magersfontein Battlefield,2266
+2021-06-17 20:26:27.174348704,Ghost Tours & Historical Walks,2329
+2021-06-20 18:42:33.907815632,Kimberley Museum,3690
+2021-06-20 18:42:33.907815632,McGregor Museum,3846
+2021-06-20 18:42:33.907815632,William Humphreys Art Gallery,4969
+2021-06-20 18:42:33.907815632,Magersfontein Battlefield,7358
+2021-06-20 18:42:33.907815632,Ghost Tours & Historical Walks,2735
+2021-06-23 16:58:40.641282560,Kimberley Museum,1362
+2021-06-23 16:58:40.641282560,McGregor Museum,3449
+2021-06-23 16:58:40.641282560,William Humphreys Art Gallery,4976
+2021-06-23 16:58:40.641282560,Magersfontein Battlefield,3263
+2021-06-23 16:58:40.641282560,Ghost Tours & Historical Walks,5029
+2021-06-26 15:14:47.374749504,Kimberley Museum,6241
+2021-06-26 15:14:47.374749504,McGregor Museum,5061
+2021-06-26 15:14:47.374749504,William Humphreys Art Gallery,932
+2021-06-26 15:14:47.374749504,Magersfontein Battlefield,7570
+2021-06-26 15:14:47.374749504,Ghost Tours & Historical Walks,5672
+2021-06-29 13:30:54.108216432,Kimberley Museum,5536
+2021-06-29 13:30:54.108216432,McGregor Museum,4864
+2021-06-29 13:30:54.108216432,William Humphreys Art Gallery,6685
+2021-06-29 13:30:54.108216432,Magersfontein Battlefield,5794
+2021-06-29 13:30:54.108216432,Ghost Tours & Historical Walks,3950
+2021-07-02 11:47:00.841683376,Kimberley Museum,4696
+2021-07-02 11:47:00.841683376,McGregor Museum,4863
+2021-07-02 11:47:00.841683376,William Humphreys Art Gallery,1961
+2021-07-02 11:47:00.841683376,Magersfontein Battlefield,6333
+2021-07-02 11:47:00.841683376,Ghost Tours & Historical Walks,4633
+2021-07-05 10:03:07.575150304,Kimberley Museum,2516
+2021-07-05 10:03:07.575150304,McGregor Museum,4260
+2021-07-05 10:03:07.575150304,William Humphreys Art Gallery,5255
+2021-07-05 10:03:07.575150304,Magersfontein Battlefield,5610
+2021-07-05 10:03:07.575150304,Ghost Tours & Historical Walks,7467
+2021-07-08 08:19:14.308617232,Kimberley Museum,6495
+2021-07-08 08:19:14.308617232,McGregor Museum,6291
+2021-07-08 08:19:14.308617232,William Humphreys Art Gallery,3259
+2021-07-08 08:19:14.308617232,Magersfontein Battlefield,5161
+2021-07-08 08:19:14.308617232,Ghost Tours & Historical Walks,6979
+2021-07-11 06:35:21.042084176,Kimberley Museum,3979
+2021-07-11 06:35:21.042084176,McGregor Museum,4824
+2021-07-11 06:35:21.042084176,William Humphreys Art Gallery,5913
+2021-07-11 06:35:21.042084176,Magersfontein Battlefield,4832
+2021-07-11 06:35:21.042084176,Ghost Tours & Historical Walks,2014
+2021-07-14 04:51:27.775551104,Kimberley Museum,5476
+2021-07-14 04:51:27.775551104,McGregor Museum,4154
+2021-07-14 04:51:27.775551104,William Humphreys Art Gallery,5994
+2021-07-14 04:51:27.775551104,Magersfontein Battlefield,4272
+2021-07-14 04:51:27.775551104,Ghost Tours & Historical Walks,4087
+2021-07-17 03:07:34.509018032,Kimberley Museum,3990
+2021-07-17 03:07:34.509018032,McGregor Museum,4586
+2021-07-17 03:07:34.509018032,William Humphreys Art Gallery,6309
+2021-07-17 03:07:34.509018032,Magersfontein Battlefield,7731
+2021-07-17 03:07:34.509018032,Ghost Tours & Historical Walks,3452
+2021-07-20 01:23:41.242484976,Kimberley Museum,6899
+2021-07-20 01:23:41.242484976,McGregor Museum,3227
+2021-07-20 01:23:41.242484976,William Humphreys Art Gallery,3351
+2021-07-20 01:23:41.242484976,Magersfontein Battlefield,4523
+2021-07-20 01:23:41.242484976,Ghost Tours & Historical Walks,4947
+2021-07-22 23:39:47.975951904,Kimberley Museum,3641
+2021-07-22 23:39:47.975951904,McGregor Museum,5855
+2021-07-22 23:39:47.975951904,William Humphreys Art Gallery,3378
+2021-07-22 23:39:47.975951904,Magersfontein Battlefield,4690
+2021-07-22 23:39:47.975951904,Ghost Tours & Historical Walks,6530
+2021-07-25 21:55:54.709418848,Kimberley Museum,3196
+2021-07-25 21:55:54.709418848,McGregor Museum,2691
+2021-07-25 21:55:54.709418848,William Humphreys Art Gallery,3976
+2021-07-25 21:55:54.709418848,Magersfontein Battlefield,4783
+2021-07-25 21:55:54.709418848,Ghost Tours & Historical Walks,6040
+2021-07-28 20:12:01.442885776,Kimberley Museum,3433
+2021-07-28 20:12:01.442885776,McGregor Museum,6823
+2021-07-28 20:12:01.442885776,William Humphreys Art Gallery,5487
+2021-07-28 20:12:01.442885776,Magersfontein Battlefield,4522
+2021-07-28 20:12:01.442885776,Ghost Tours & Historical Walks,7013
+2021-07-31 18:28:08.176352704,Kimberley Museum,7920
+2021-07-31 18:28:08.176352704,McGregor Museum,4067
+2021-07-31 18:28:08.176352704,William Humphreys Art Gallery,7059
+2021-07-31 18:28:08.176352704,Magersfontein Battlefield,4570
+2021-07-31 18:28:08.176352704,Ghost Tours & Historical Walks,6574
+2021-08-03 16:44:14.909819648,Kimberley Museum,3821
+2021-08-03 16:44:14.909819648,McGregor Museum,4670
+2021-08-03 16:44:14.909819648,William Humphreys Art Gallery,2998
+2021-08-03 16:44:14.909819648,Magersfontein Battlefield,5113
+2021-08-03 16:44:14.909819648,Ghost Tours & Historical Walks,5185
+2021-08-06 15:00:21.643286576,Kimberley Museum,3006
+2021-08-06 15:00:21.643286576,McGregor Museum,5556
+2021-08-06 15:00:21.643286576,William Humphreys Art Gallery,7609
+2021-08-06 15:00:21.643286576,Magersfontein Battlefield,4319
+2021-08-06 15:00:21.643286576,Ghost Tours & Historical Walks,5806
+2021-08-09 13:16:28.376753504,Kimberley Museum,4580
+2021-08-09 13:16:28.376753504,McGregor Museum,6772
+2021-08-09 13:16:28.376753504,William Humphreys Art Gallery,6227
+2021-08-09 13:16:28.376753504,Magersfontein Battlefield,2748
+2021-08-09 13:16:28.376753504,Ghost Tours & Historical Walks,4178
+2021-08-12 11:32:35.110220448,Kimberley Museum,4513
+2021-08-12 11:32:35.110220448,McGregor Museum,4877
+2021-08-12 11:32:35.110220448,William Humphreys Art Gallery,5147
+2021-08-12 11:32:35.110220448,Magersfontein Battlefield,4043
+2021-08-12 11:32:35.110220448,Ghost Tours & Historical Walks,3226
+2021-08-15 09:48:41.843687376,Kimberley Museum,6535
+2021-08-15 09:48:41.843687376,McGregor Museum,4805
+2021-08-15 09:48:41.843687376,William Humphreys Art Gallery,1555
+2021-08-15 09:48:41.843687376,Magersfontein Battlefield,3056
+2021-08-15 09:48:41.843687376,Ghost Tours & Historical Walks,6505
+2021-08-18 08:04:48.577154304,Kimberley Museum,3746
+2021-08-18 08:04:48.577154304,McGregor Museum,3882
+2021-08-18 08:04:48.577154304,William Humphreys Art Gallery,4754
+2021-08-18 08:04:48.577154304,Magersfontein Battlefield,5512
+2021-08-18 08:04:48.577154304,Ghost Tours & Historical Walks,6432
+2021-08-21 06:20:55.310621248,Kimberley Museum,4569
+2021-08-21 06:20:55.310621248,McGregor Museum,5108
+2021-08-21 06:20:55.310621248,William Humphreys Art Gallery,5874
+2021-08-21 06:20:55.310621248,Magersfontein Battlefield,4206
+2021-08-21 06:20:55.310621248,Ghost Tours & Historical Walks,5091
+2021-08-24 04:37:02.044088176,Kimberley Museum,5859
+2021-08-24 04:37:02.044088176,McGregor Museum,6941
+2021-08-24 04:37:02.044088176,William Humphreys Art Gallery,4231
+2021-08-24 04:37:02.044088176,Magersfontein Battlefield,4734
+2021-08-24 04:37:02.044088176,Ghost Tours & Historical Walks,3435
+2021-08-27 02:53:08.777555120,Kimberley Museum,7080
+2021-08-27 02:53:08.777555120,McGregor Museum,5991
+2021-08-27 02:53:08.777555120,William Humphreys Art Gallery,2746
+2021-08-27 02:53:08.777555120,Magersfontein Battlefield,4865
+2021-08-27 02:53:08.777555120,Ghost Tours & Historical Walks,3944
+2021-08-30 01:09:15.511022048,Kimberley Museum,3220
+2021-08-30 01:09:15.511022048,McGregor Museum,3548
+2021-08-30 01:09:15.511022048,William Humphreys Art Gallery,5430
+2021-08-30 01:09:15.511022048,Magersfontein Battlefield,4159
+2021-08-30 01:09:15.511022048,Ghost Tours & Historical Walks,6582
+2021-09-01 23:25:22.244488976,Kimberley Museum,2401
+2021-09-01 23:25:22.244488976,McGregor Museum,5882
+2021-09-01 23:25:22.244488976,William Humphreys Art Gallery,2797
+2021-09-01 23:25:22.244488976,Magersfontein Battlefield,5267
+2021-09-01 23:25:22.244488976,Ghost Tours & Historical Walks,3046
+2021-09-04 21:41:28.977955920,Kimberley Museum,5637
+2021-09-04 21:41:28.977955920,McGregor Museum,7038
+2021-09-04 21:41:28.977955920,William Humphreys Art Gallery,4125
+2021-09-04 21:41:28.977955920,Magersfontein Battlefield,3557
+2021-09-04 21:41:28.977955920,Ghost Tours & Historical Walks,5784
+2021-09-07 19:57:35.711422848,Kimberley Museum,6097
+2021-09-07 19:57:35.711422848,McGregor Museum,7606
+2021-09-07 19:57:35.711422848,William Humphreys Art Gallery,4327
+2021-09-07 19:57:35.711422848,Magersfontein Battlefield,7118
+2021-09-07 19:57:35.711422848,Ghost Tours & Historical Walks,8484
+2021-09-10 18:13:42.444889776,Kimberley Museum,6702
+2021-09-10 18:13:42.444889776,McGregor Museum,7244
+2021-09-10 18:13:42.444889776,William Humphreys Art Gallery,4040
+2021-09-10 18:13:42.444889776,Magersfontein Battlefield,4966
+2021-09-10 18:13:42.444889776,Ghost Tours & Historical Walks,4120
+2021-09-13 16:29:49.178356720,Kimberley Museum,5769
+2021-09-13 16:29:49.178356720,McGregor Museum,2687
+2021-09-13 16:29:49.178356720,William Humphreys Art Gallery,5567
+2021-09-13 16:29:49.178356720,Magersfontein Battlefield,4627
+2021-09-13 16:29:49.178356720,Ghost Tours & Historical Walks,4517
+2021-09-16 14:45:55.911823648,Kimberley Museum,6675
+2021-09-16 14:45:55.911823648,McGregor Museum,5907
+2021-09-16 14:45:55.911823648,William Humphreys Art Gallery,6102
+2021-09-16 14:45:55.911823648,Magersfontein Battlefield,3560
+2021-09-16 14:45:55.911823648,Ghost Tours & Historical Walks,5885
+2021-09-19 13:02:02.645290576,Kimberley Museum,6229
+2021-09-19 13:02:02.645290576,McGregor Museum,4214
+2021-09-19 13:02:02.645290576,William Humphreys Art Gallery,3392
+2021-09-19 13:02:02.645290576,Magersfontein Battlefield,6716
+2021-09-19 13:02:02.645290576,Ghost Tours & Historical Walks,5450
+2021-09-22 11:18:09.378757520,Kimberley Museum,5518
+2021-09-22 11:18:09.378757520,McGregor Museum,6643
+2021-09-22 11:18:09.378757520,William Humphreys Art Gallery,4921
+2021-09-22 11:18:09.378757520,Magersfontein Battlefield,5722
+2021-09-22 11:18:09.378757520,Ghost Tours & Historical Walks,3929
+2021-09-25 09:34:16.112224448,Kimberley Museum,5689
+2021-09-25 09:34:16.112224448,McGregor Museum,7737
+2021-09-25 09:34:16.112224448,William Humphreys Art Gallery,4522
+2021-09-25 09:34:16.112224448,Magersfontein Battlefield,7119
+2021-09-25 09:34:16.112224448,Ghost Tours & Historical Walks,4885
+2021-09-28 07:50:22.845691392,Kimberley Museum,2292
+2021-09-28 07:50:22.845691392,McGregor Museum,6425
+2021-09-28 07:50:22.845691392,William Humphreys Art Gallery,7536
+2021-09-28 07:50:22.845691392,Magersfontein Battlefield,2571
+2021-09-28 07:50:22.845691392,Ghost Tours & Historical Walks,5949
+2021-10-01 06:06:29.579158320,Kimberley Museum,2970
+2021-10-01 06:06:29.579158320,McGregor Museum,4166
+2021-10-01 06:06:29.579158320,William Humphreys Art Gallery,4848
+2021-10-01 06:06:29.579158320,Magersfontein Battlefield,5068
+2021-10-01 06:06:29.579158320,Ghost Tours & Historical Walks,7203
+2021-10-04 04:22:36.312625248,Kimberley Museum,3867
+2021-10-04 04:22:36.312625248,McGregor Museum,6052
+2021-10-04 04:22:36.312625248,William Humphreys Art Gallery,4396
+2021-10-04 04:22:36.312625248,Magersfontein Battlefield,5774
+2021-10-04 04:22:36.312625248,Ghost Tours & Historical Walks,2939
+2021-10-07 02:38:43.046092192,Kimberley Museum,3681
+2021-10-07 02:38:43.046092192,McGregor Museum,4054
+2021-10-07 02:38:43.046092192,William Humphreys Art Gallery,5858
+2021-10-07 02:38:43.046092192,Magersfontein Battlefield,3471
+2021-10-07 02:38:43.046092192,Ghost Tours & Historical Walks,361
+2021-10-10 00:54:49.779559120,Kimberley Museum,5847
+2021-10-10 00:54:49.779559120,McGregor Museum,2241
+2021-10-10 00:54:49.779559120,William Humphreys Art Gallery,6707
+2021-10-10 00:54:49.779559120,Magersfontein Battlefield,5128
+2021-10-10 00:54:49.779559120,Ghost Tours & Historical Walks,4071
+2021-10-12 23:10:56.513026048,Kimberley Museum,4122
+2021-10-12 23:10:56.513026048,McGregor Museum,6979
+2021-10-12 23:10:56.513026048,William Humphreys Art Gallery,7508
+2021-10-12 23:10:56.513026048,Magersfontein Battlefield,5054
+2021-10-12 23:10:56.513026048,Ghost Tours & Historical Walks,5655
+2021-10-15 21:27:03.246492992,Kimberley Museum,5756
+2021-10-15 21:27:03.246492992,McGregor Museum,6436
+2021-10-15 21:27:03.246492992,William Humphreys Art Gallery,3373
+2021-10-15 21:27:03.246492992,Magersfontein Battlefield,5299
+2021-10-15 21:27:03.246492992,Ghost Tours & Historical Walks,6203
+2021-10-18 19:43:09.979959920,Kimberley Museum,1641
+2021-10-18 19:43:09.979959920,McGregor Museum,5339
+2021-10-18 19:43:09.979959920,William Humphreys Art Gallery,4848
+2021-10-18 19:43:09.979959920,Magersfontein Battlefield,757
+2021-10-18 19:43:09.979959920,Ghost Tours & Historical Walks,4631
+2021-10-21 17:59:16.713426864,Kimberley Museum,3684
+2021-10-21 17:59:16.713426864,McGregor Museum,6795
+2021-10-21 17:59:16.713426864,William Humphreys Art Gallery,5482
+2021-10-21 17:59:16.713426864,Magersfontein Battlefield,9975
+2021-10-21 17:59:16.713426864,Ghost Tours & Historical Walks,6171
+2021-10-24 16:15:23.446893792,Kimberley Museum,7044
+2021-10-24 16:15:23.446893792,McGregor Museum,2822
+2021-10-24 16:15:23.446893792,William Humphreys Art Gallery,4780
+2021-10-24 16:15:23.446893792,Magersfontein Battlefield,2797
+2021-10-24 16:15:23.446893792,Ghost Tours & Historical Walks,4304
+2021-10-27 14:31:30.180360720,Kimberley Museum,4513
+2021-10-27 14:31:30.180360720,McGregor Museum,5011
+2021-10-27 14:31:30.180360720,William Humphreys Art Gallery,5816
+2021-10-27 14:31:30.180360720,Magersfontein Battlefield,3678
+2021-10-27 14:31:30.180360720,Ghost Tours & Historical Walks,3222
+2021-10-30 12:47:36.913827664,Kimberley Museum,5265
+2021-10-30 12:47:36.913827664,McGregor Museum,4408
+2021-10-30 12:47:36.913827664,William Humphreys Art Gallery,2861
+2021-10-30 12:47:36.913827664,Magersfontein Battlefield,6838
+2021-10-30 12:47:36.913827664,Ghost Tours & Historical Walks,5535
+2021-11-02 11:03:43.647294592,Kimberley Museum,4505
+2021-11-02 11:03:43.647294592,McGregor Museum,5713
+2021-11-02 11:03:43.647294592,William Humphreys Art Gallery,4440
+2021-11-02 11:03:43.647294592,Magersfontein Battlefield,1417
+2021-11-02 11:03:43.647294592,Ghost Tours & Historical Walks,6490
+2021-11-05 09:19:50.380761520,Kimberley Museum,4577
+2021-11-05 09:19:50.380761520,McGregor Museum,6991
+2021-11-05 09:19:50.380761520,William Humphreys Art Gallery,5104
+2021-11-05 09:19:50.380761520,Magersfontein Battlefield,4049
+2021-11-05 09:19:50.380761520,Ghost Tours & Historical Walks,3126
+2021-11-08 07:35:57.114228464,Kimberley Museum,7310
+2021-11-08 07:35:57.114228464,McGregor Museum,4241
+2021-11-08 07:35:57.114228464,William Humphreys Art Gallery,4274
+2021-11-08 07:35:57.114228464,Magersfontein Battlefield,6622
+2021-11-08 07:35:57.114228464,Ghost Tours & Historical Walks,3698
+2021-11-11 05:52:03.847695392,Kimberley Museum,6912
+2021-11-11 05:52:03.847695392,McGregor Museum,6326
+2021-11-11 05:52:03.847695392,William Humphreys Art Gallery,3895
+2021-11-11 05:52:03.847695392,Magersfontein Battlefield,5247
+2021-11-11 05:52:03.847695392,Ghost Tours & Historical Walks,5357
+2021-11-14 04:08:10.581162320,Kimberley Museum,3831
+2021-11-14 04:08:10.581162320,McGregor Museum,5916
+2021-11-14 04:08:10.581162320,William Humphreys Art Gallery,6189
+2021-11-14 04:08:10.581162320,Magersfontein Battlefield,5855
+2021-11-14 04:08:10.581162320,Ghost Tours & Historical Walks,1462
+2021-11-17 02:24:17.314629264,Kimberley Museum,7469
+2021-11-17 02:24:17.314629264,McGregor Museum,4308
+2021-11-17 02:24:17.314629264,William Humphreys Art Gallery,5073
+2021-11-17 02:24:17.314629264,Magersfontein Battlefield,5208
+2021-11-17 02:24:17.314629264,Ghost Tours & Historical Walks,2439
+2021-11-20 00:40:24.048096192,Kimberley Museum,3001
+2021-11-20 00:40:24.048096192,McGregor Museum,5619
+2021-11-20 00:40:24.048096192,William Humphreys Art Gallery,2728
+2021-11-20 00:40:24.048096192,Magersfontein Battlefield,4649
+2021-11-20 00:40:24.048096192,Ghost Tours & Historical Walks,6770
+2021-11-22 22:56:30.781563136,Kimberley Museum,5536
+2021-11-22 22:56:30.781563136,McGregor Museum,6300
+2021-11-22 22:56:30.781563136,William Humphreys Art Gallery,5887
+2021-11-22 22:56:30.781563136,Magersfontein Battlefield,3546
+2021-11-22 22:56:30.781563136,Ghost Tours & Historical Walks,4567
+2021-11-25 21:12:37.515030064,Kimberley Museum,5911
+2021-11-25 21:12:37.515030064,McGregor Museum,3718
+2021-11-25 21:12:37.515030064,William Humphreys Art Gallery,1744
+2021-11-25 21:12:37.515030064,Magersfontein Battlefield,5613
+2021-11-25 21:12:37.515030064,Ghost Tours & Historical Walks,5881
+2021-11-28 19:28:44.248496992,Kimberley Museum,6813
+2021-11-28 19:28:44.248496992,McGregor Museum,5750
+2021-11-28 19:28:44.248496992,William Humphreys Art Gallery,4846
+2021-11-28 19:28:44.248496992,Magersfontein Battlefield,4205
+2021-11-28 19:28:44.248496992,Ghost Tours & Historical Walks,5161
+2021-12-01 17:44:50.981963936,Kimberley Museum,6026
+2021-12-01 17:44:50.981963936,McGregor Museum,2351
+2021-12-01 17:44:50.981963936,William Humphreys Art Gallery,3618
+2021-12-01 17:44:50.981963936,Magersfontein Battlefield,6262
+2021-12-01 17:44:50.981963936,Ghost Tours & Historical Walks,4195
+2021-12-04 16:00:57.715430864,Kimberley Museum,4972
+2021-12-04 16:00:57.715430864,McGregor Museum,6737
+2021-12-04 16:00:57.715430864,William Humphreys Art Gallery,3879
+2021-12-04 16:00:57.715430864,Magersfontein Battlefield,5691
+2021-12-04 16:00:57.715430864,Ghost Tours & Historical Walks,3858
+2021-12-07 14:17:04.448897792,Kimberley Museum,8238
+2021-12-07 14:17:04.448897792,McGregor Museum,6380
+2021-12-07 14:17:04.448897792,William Humphreys Art Gallery,5797
+2021-12-07 14:17:04.448897792,Magersfontein Battlefield,6043
+2021-12-07 14:17:04.448897792,Ghost Tours & Historical Walks,5485
+2021-12-10 12:33:11.182364736,Kimberley Museum,5005
+2021-12-10 12:33:11.182364736,McGregor Museum,6251
+2021-12-10 12:33:11.182364736,William Humphreys Art Gallery,6385
+2021-12-10 12:33:11.182364736,Magersfontein Battlefield,7131
+2021-12-10 12:33:11.182364736,Ghost Tours & Historical Walks,4114
+2021-12-13 10:49:17.915831664,Kimberley Museum,5391
+2021-12-13 10:49:17.915831664,McGregor Museum,6798
+2021-12-13 10:49:17.915831664,William Humphreys Art Gallery,3929
+2021-12-13 10:49:17.915831664,Magersfontein Battlefield,4687
+2021-12-13 10:49:17.915831664,Ghost Tours & Historical Walks,4018
+2021-12-16 09:05:24.649298592,Kimberley Museum,5376
+2021-12-16 09:05:24.649298592,McGregor Museum,2605
+2021-12-16 09:05:24.649298592,William Humphreys Art Gallery,4479
+2021-12-16 09:05:24.649298592,Magersfontein Battlefield,5531
+2021-12-16 09:05:24.649298592,Ghost Tours & Historical Walks,7482
+2021-12-19 07:21:31.382765536,Kimberley Museum,3694
+2021-12-19 07:21:31.382765536,McGregor Museum,7779
+2021-12-19 07:21:31.382765536,William Humphreys Art Gallery,4040
+2021-12-19 07:21:31.382765536,Magersfontein Battlefield,2604
+2021-12-19 07:21:31.382765536,Ghost Tours & Historical Walks,4131
+2021-12-22 05:37:38.116232464,Kimberley Museum,4611
+2021-12-22 05:37:38.116232464,McGregor Museum,5811
+2021-12-22 05:37:38.116232464,William Humphreys Art Gallery,5801
+2021-12-22 05:37:38.116232464,Magersfontein Battlefield,5106
+2021-12-22 05:37:38.116232464,Ghost Tours & Historical Walks,3491
+2021-12-25 03:53:44.849699408,Kimberley Museum,5170
+2021-12-25 03:53:44.849699408,McGregor Museum,5072
+2021-12-25 03:53:44.849699408,William Humphreys Art Gallery,3364
+2021-12-25 03:53:44.849699408,Magersfontein Battlefield,6656
+2021-12-25 03:53:44.849699408,Ghost Tours & Historical Walks,6329
+2021-12-28 02:09:51.583166336,Kimberley Museum,4461
+2021-12-28 02:09:51.583166336,McGregor Museum,5610
+2021-12-28 02:09:51.583166336,William Humphreys Art Gallery,5485
+2021-12-28 02:09:51.583166336,Magersfontein Battlefield,7983
+2021-12-28 02:09:51.583166336,Ghost Tours & Historical Walks,4989
+2021-12-31 00:25:58.316633264,Kimberley Museum,3395
+2021-12-31 00:25:58.316633264,McGregor Museum,5710
+2021-12-31 00:25:58.316633264,William Humphreys Art Gallery,5519
+2021-12-31 00:25:58.316633264,Magersfontein Battlefield,4863
+2021-12-31 00:25:58.316633264,Ghost Tours & Historical Walks,5503
+2022-01-02 22:42:05.050100208,Kimberley Museum,4079
+2022-01-02 22:42:05.050100208,McGregor Museum,4172
+2022-01-02 22:42:05.050100208,William Humphreys Art Gallery,6444
+2022-01-02 22:42:05.050100208,Magersfontein Battlefield,3096
+2022-01-02 22:42:05.050100208,Ghost Tours & Historical Walks,4746
+2022-01-05 20:58:11.783567136,Kimberley Museum,5759
+2022-01-05 20:58:11.783567136,McGregor Museum,3454
+2022-01-05 20:58:11.783567136,William Humphreys Art Gallery,5364
+2022-01-05 20:58:11.783567136,Magersfontein Battlefield,4513
+2022-01-05 20:58:11.783567136,Ghost Tours & Historical Walks,5609
+2022-01-08 19:14:18.517034064,Kimberley Museum,5136
+2022-01-08 19:14:18.517034064,McGregor Museum,5095
+2022-01-08 19:14:18.517034064,William Humphreys Art Gallery,4719
+2022-01-08 19:14:18.517034064,Magersfontein Battlefield,3863
+2022-01-08 19:14:18.517034064,Ghost Tours & Historical Walks,7811
+2022-01-11 17:30:25.250501008,Kimberley Museum,2910
+2022-01-11 17:30:25.250501008,McGregor Museum,4771
+2022-01-11 17:30:25.250501008,William Humphreys Art Gallery,5593
+2022-01-11 17:30:25.250501008,Magersfontein Battlefield,2843
+2022-01-11 17:30:25.250501008,Ghost Tours & Historical Walks,7157
+2022-01-14 15:46:31.983967936,Kimberley Museum,4516
+2022-01-14 15:46:31.983967936,McGregor Museum,3549
+2022-01-14 15:46:31.983967936,William Humphreys Art Gallery,4496
+2022-01-14 15:46:31.983967936,Magersfontein Battlefield,6400
+2022-01-14 15:46:31.983967936,Ghost Tours & Historical Walks,6648
+2022-01-17 14:02:38.717434880,Kimberley Museum,5772
+2022-01-17 14:02:38.717434880,McGregor Museum,4504
+2022-01-17 14:02:38.717434880,William Humphreys Art Gallery,4516
+2022-01-17 14:02:38.717434880,Magersfontein Battlefield,5705
+2022-01-17 14:02:38.717434880,Ghost Tours & Historical Walks,6201
+2022-01-20 12:18:45.450901808,Kimberley Museum,3072
+2022-01-20 12:18:45.450901808,McGregor Museum,4774
+2022-01-20 12:18:45.450901808,William Humphreys Art Gallery,6613
+2022-01-20 12:18:45.450901808,Magersfontein Battlefield,3247
+2022-01-20 12:18:45.450901808,Ghost Tours & Historical Walks,4360
+2022-01-23 10:34:52.184368736,Kimberley Museum,4627
+2022-01-23 10:34:52.184368736,McGregor Museum,2528
+2022-01-23 10:34:52.184368736,William Humphreys Art Gallery,3389
+2022-01-23 10:34:52.184368736,Magersfontein Battlefield,6801
+2022-01-23 10:34:52.184368736,Ghost Tours & Historical Walks,4887
+2022-01-26 08:50:58.917835680,Kimberley Museum,5202
+2022-01-26 08:50:58.917835680,McGregor Museum,6151
+2022-01-26 08:50:58.917835680,William Humphreys Art Gallery,4474
+2022-01-26 08:50:58.917835680,Magersfontein Battlefield,3174
+2022-01-26 08:50:58.917835680,Ghost Tours & Historical Walks,5270
+2022-01-29 07:07:05.651302608,Kimberley Museum,4609
+2022-01-29 07:07:05.651302608,McGregor Museum,4712
+2022-01-29 07:07:05.651302608,William Humphreys Art Gallery,5656
+2022-01-29 07:07:05.651302608,Magersfontein Battlefield,4752
+2022-01-29 07:07:05.651302608,Ghost Tours & Historical Walks,6230
+2022-02-01 05:23:12.384769536,Kimberley Museum,6973
+2022-02-01 05:23:12.384769536,McGregor Museum,3700
+2022-02-01 05:23:12.384769536,William Humphreys Art Gallery,3473
+2022-02-01 05:23:12.384769536,Magersfontein Battlefield,3557
+2022-02-01 05:23:12.384769536,Ghost Tours & Historical Walks,7171
+2022-02-04 03:39:19.118236480,Kimberley Museum,6585
+2022-02-04 03:39:19.118236480,McGregor Museum,6078
+2022-02-04 03:39:19.118236480,William Humphreys Art Gallery,4815
+2022-02-04 03:39:19.118236480,Magersfontein Battlefield,5193
+2022-02-04 03:39:19.118236480,Ghost Tours & Historical Walks,2960
+2022-02-07 01:55:25.851703408,Kimberley Museum,4446
+2022-02-07 01:55:25.851703408,McGregor Museum,4615
+2022-02-07 01:55:25.851703408,William Humphreys Art Gallery,3929
+2022-02-07 01:55:25.851703408,Magersfontein Battlefield,5449
+2022-02-07 01:55:25.851703408,Ghost Tours & Historical Walks,4247
+2022-02-10 00:11:32.585170336,Kimberley Museum,6847
+2022-02-10 00:11:32.585170336,McGregor Museum,5449
+2022-02-10 00:11:32.585170336,William Humphreys Art Gallery,5762
+2022-02-10 00:11:32.585170336,Magersfontein Battlefield,5397
+2022-02-10 00:11:32.585170336,Ghost Tours & Historical Walks,3965
+2022-02-12 22:27:39.318637280,Kimberley Museum,5219
+2022-02-12 22:27:39.318637280,McGregor Museum,5810
+2022-02-12 22:27:39.318637280,William Humphreys Art Gallery,5144
+2022-02-12 22:27:39.318637280,Magersfontein Battlefield,4819
+2022-02-12 22:27:39.318637280,Ghost Tours & Historical Walks,6022
+2022-02-15 20:43:46.052104208,Kimberley Museum,4137
+2022-02-15 20:43:46.052104208,McGregor Museum,3728
+2022-02-15 20:43:46.052104208,William Humphreys Art Gallery,4273
+2022-02-15 20:43:46.052104208,Magersfontein Battlefield,5672
+2022-02-15 20:43:46.052104208,Ghost Tours & Historical Walks,3882
+2022-02-18 18:59:52.785571152,Kimberley Museum,5518
+2022-02-18 18:59:52.785571152,McGregor Museum,4497
+2022-02-18 18:59:52.785571152,William Humphreys Art Gallery,4607
+2022-02-18 18:59:52.785571152,Magersfontein Battlefield,3738
+2022-02-18 18:59:52.785571152,Ghost Tours & Historical Walks,4969
+2022-02-21 17:15:59.519038080,Kimberley Museum,3058
+2022-02-21 17:15:59.519038080,McGregor Museum,4701
+2022-02-21 17:15:59.519038080,William Humphreys Art Gallery,4317
+2022-02-21 17:15:59.519038080,Magersfontein Battlefield,4310
+2022-02-21 17:15:59.519038080,Ghost Tours & Historical Walks,6008
+2022-02-24 15:32:06.252505008,Kimberley Museum,4929
+2022-02-24 15:32:06.252505008,McGregor Museum,8675
+2022-02-24 15:32:06.252505008,William Humphreys Art Gallery,3458
+2022-02-24 15:32:06.252505008,Magersfontein Battlefield,2419
+2022-02-24 15:32:06.252505008,Ghost Tours & Historical Walks,2340
+2022-02-27 13:48:12.985971952,Kimberley Museum,4935
+2022-02-27 13:48:12.985971952,McGregor Museum,5289
+2022-02-27 13:48:12.985971952,William Humphreys Art Gallery,4140
+2022-02-27 13:48:12.985971952,Magersfontein Battlefield,5128
+2022-02-27 13:48:12.985971952,Ghost Tours & Historical Walks,4264
+2022-03-02 12:04:19.719438880,Kimberley Museum,7543
+2022-03-02 12:04:19.719438880,McGregor Museum,3429
+2022-03-02 12:04:19.719438880,William Humphreys Art Gallery,2949
+2022-03-02 12:04:19.719438880,Magersfontein Battlefield,3644
+2022-03-02 12:04:19.719438880,Ghost Tours & Historical Walks,4474
+2022-03-05 10:20:26.452905808,Kimberley Museum,7358
+2022-03-05 10:20:26.452905808,McGregor Museum,7846
+2022-03-05 10:20:26.452905808,William Humphreys Art Gallery,5739
+2022-03-05 10:20:26.452905808,Magersfontein Battlefield,5695
+2022-03-05 10:20:26.452905808,Ghost Tours & Historical Walks,3777
+2022-03-08 08:36:33.186372752,Kimberley Museum,4334
+2022-03-08 08:36:33.186372752,McGregor Museum,3913
+2022-03-08 08:36:33.186372752,William Humphreys Art Gallery,5920
+2022-03-08 08:36:33.186372752,Magersfontein Battlefield,5667
+2022-03-08 08:36:33.186372752,Ghost Tours & Historical Walks,5881
+2022-03-11 06:52:39.919839680,Kimberley Museum,4367
+2022-03-11 06:52:39.919839680,McGregor Museum,5018
+2022-03-11 06:52:39.919839680,William Humphreys Art Gallery,5592
+2022-03-11 06:52:39.919839680,Magersfontein Battlefield,3160
+2022-03-11 06:52:39.919839680,Ghost Tours & Historical Walks,5586
+2022-03-14 05:08:46.653306624,Kimberley Museum,6080
+2022-03-14 05:08:46.653306624,McGregor Museum,2860
+2022-03-14 05:08:46.653306624,William Humphreys Art Gallery,5215
+2022-03-14 05:08:46.653306624,Magersfontein Battlefield,6500
+2022-03-14 05:08:46.653306624,Ghost Tours & Historical Walks,5356
+2022-03-17 03:24:53.386773552,Kimberley Museum,3494
+2022-03-17 03:24:53.386773552,McGregor Museum,4436
+2022-03-17 03:24:53.386773552,William Humphreys Art Gallery,4609
+2022-03-17 03:24:53.386773552,Magersfontein Battlefield,3077
+2022-03-17 03:24:53.386773552,Ghost Tours & Historical Walks,5757
+2022-03-20 01:41:00.120240480,Kimberley Museum,4296
+2022-03-20 01:41:00.120240480,McGregor Museum,4963
+2022-03-20 01:41:00.120240480,William Humphreys Art Gallery,7390
+2022-03-20 01:41:00.120240480,Magersfontein Battlefield,3565
+2022-03-20 01:41:00.120240480,Ghost Tours & Historical Walks,6511
+2022-03-22 23:57:06.853707424,Kimberley Museum,2333
+2022-03-22 23:57:06.853707424,McGregor Museum,6556
+2022-03-22 23:57:06.853707424,William Humphreys Art Gallery,5494
+2022-03-22 23:57:06.853707424,Magersfontein Battlefield,2737
+2022-03-22 23:57:06.853707424,Ghost Tours & Historical Walks,4492
+2022-03-25 22:13:13.587174352,Kimberley Museum,7759
+2022-03-25 22:13:13.587174352,McGregor Museum,6032
+2022-03-25 22:13:13.587174352,William Humphreys Art Gallery,3352
+2022-03-25 22:13:13.587174352,Magersfontein Battlefield,7440
+2022-03-25 22:13:13.587174352,Ghost Tours & Historical Walks,4229
+2022-03-28 20:29:20.320641280,Kimberley Museum,4126
+2022-03-28 20:29:20.320641280,McGregor Museum,1079
+2022-03-28 20:29:20.320641280,William Humphreys Art Gallery,3309
+2022-03-28 20:29:20.320641280,Magersfontein Battlefield,3560
+2022-03-28 20:29:20.320641280,Ghost Tours & Historical Walks,3853
+2022-03-31 18:45:27.054108224,Kimberley Museum,3987
+2022-03-31 18:45:27.054108224,McGregor Museum,6582
+2022-03-31 18:45:27.054108224,William Humphreys Art Gallery,4461
+2022-03-31 18:45:27.054108224,Magersfontein Battlefield,5587
+2022-03-31 18:45:27.054108224,Ghost Tours & Historical Walks,5960
+2022-04-03 17:01:33.787575152,Kimberley Museum,4716
+2022-04-03 17:01:33.787575152,McGregor Museum,5062
+2022-04-03 17:01:33.787575152,William Humphreys Art Gallery,5523
+2022-04-03 17:01:33.787575152,Magersfontein Battlefield,6013
+2022-04-03 17:01:33.787575152,Ghost Tours & Historical Walks,3722
+2022-04-06 15:17:40.521042080,Kimberley Museum,7343
+2022-04-06 15:17:40.521042080,McGregor Museum,5879
+2022-04-06 15:17:40.521042080,William Humphreys Art Gallery,1508
+2022-04-06 15:17:40.521042080,Magersfontein Battlefield,4459
+2022-04-06 15:17:40.521042080,Ghost Tours & Historical Walks,5914
+2022-04-09 13:33:47.254509024,Kimberley Museum,6627
+2022-04-09 13:33:47.254509024,McGregor Museum,5461
+2022-04-09 13:33:47.254509024,William Humphreys Art Gallery,6965
+2022-04-09 13:33:47.254509024,Magersfontein Battlefield,4511
+2022-04-09 13:33:47.254509024,Ghost Tours & Historical Walks,5501
+2022-04-12 11:49:53.987975952,Kimberley Museum,3636
+2022-04-12 11:49:53.987975952,McGregor Museum,5451
+2022-04-12 11:49:53.987975952,William Humphreys Art Gallery,5217
+2022-04-12 11:49:53.987975952,Magersfontein Battlefield,4126
+2022-04-12 11:49:53.987975952,Ghost Tours & Historical Walks,6839
+2022-04-15 10:06:00.721442896,Kimberley Museum,6720
+2022-04-15 10:06:00.721442896,McGregor Museum,5137
+2022-04-15 10:06:00.721442896,William Humphreys Art Gallery,4123
+2022-04-15 10:06:00.721442896,Magersfontein Battlefield,4580
+2022-04-15 10:06:00.721442896,Ghost Tours & Historical Walks,4279
+2022-04-18 08:22:07.454909824,Kimberley Museum,7677
+2022-04-18 08:22:07.454909824,McGregor Museum,4993
+2022-04-18 08:22:07.454909824,William Humphreys Art Gallery,4360
+2022-04-18 08:22:07.454909824,Magersfontein Battlefield,5878
+2022-04-18 08:22:07.454909824,Ghost Tours & Historical Walks,7491
+2022-04-21 06:38:14.188376752,Kimberley Museum,4835
+2022-04-21 06:38:14.188376752,McGregor Museum,4477
+2022-04-21 06:38:14.188376752,William Humphreys Art Gallery,4816
+2022-04-21 06:38:14.188376752,Magersfontein Battlefield,6231
+2022-04-21 06:38:14.188376752,Ghost Tours & Historical Walks,5668
+2022-04-24 04:54:20.921843696,Kimberley Museum,2337
+2022-04-24 04:54:20.921843696,McGregor Museum,5260
+2022-04-24 04:54:20.921843696,William Humphreys Art Gallery,1945
+2022-04-24 04:54:20.921843696,Magersfontein Battlefield,5797
+2022-04-24 04:54:20.921843696,Ghost Tours & Historical Walks,6171
+2022-04-27 03:10:27.655310624,Kimberley Museum,5932
+2022-04-27 03:10:27.655310624,McGregor Museum,6278
+2022-04-27 03:10:27.655310624,William Humphreys Art Gallery,5489
+2022-04-27 03:10:27.655310624,Magersfontein Battlefield,3678
+2022-04-27 03:10:27.655310624,Ghost Tours & Historical Walks,5551
+2022-04-30 01:26:34.388777552,Kimberley Museum,5312
+2022-04-30 01:26:34.388777552,McGregor Museum,7283
+2022-04-30 01:26:34.388777552,William Humphreys Art Gallery,5016
+2022-04-30 01:26:34.388777552,Magersfontein Battlefield,5097
+2022-04-30 01:26:34.388777552,Ghost Tours & Historical Walks,6433
+2022-05-02 23:42:41.122244496,Kimberley Museum,4743
+2022-05-02 23:42:41.122244496,McGregor Museum,8574
+2022-05-02 23:42:41.122244496,William Humphreys Art Gallery,6705
+2022-05-02 23:42:41.122244496,Magersfontein Battlefield,3394
+2022-05-02 23:42:41.122244496,Ghost Tours & Historical Walks,6255
+2022-05-05 21:58:47.855711424,Kimberley Museum,6051
+2022-05-05 21:58:47.855711424,McGregor Museum,5546
+2022-05-05 21:58:47.855711424,William Humphreys Art Gallery,4944
+2022-05-05 21:58:47.855711424,Magersfontein Battlefield,6514
+2022-05-05 21:58:47.855711424,Ghost Tours & Historical Walks,4342
+2022-05-08 20:14:54.589178352,Kimberley Museum,5572
+2022-05-08 20:14:54.589178352,McGregor Museum,5442
+2022-05-08 20:14:54.589178352,William Humphreys Art Gallery,5469
+2022-05-08 20:14:54.589178352,Magersfontein Battlefield,6837
+2022-05-08 20:14:54.589178352,Ghost Tours & Historical Walks,2609
+2022-05-11 18:31:01.322645296,Kimberley Museum,4917
+2022-05-11 18:31:01.322645296,McGregor Museum,4174
+2022-05-11 18:31:01.322645296,William Humphreys Art Gallery,2115
+2022-05-11 18:31:01.322645296,Magersfontein Battlefield,4976
+2022-05-11 18:31:01.322645296,Ghost Tours & Historical Walks,4798
+2022-05-14 16:47:08.056112224,Kimberley Museum,3842
+2022-05-14 16:47:08.056112224,McGregor Museum,4149
+2022-05-14 16:47:08.056112224,William Humphreys Art Gallery,4669
+2022-05-14 16:47:08.056112224,Magersfontein Battlefield,4539
+2022-05-14 16:47:08.056112224,Ghost Tours & Historical Walks,6022
+2022-05-17 15:03:14.789579168,Kimberley Museum,4869
+2022-05-17 15:03:14.789579168,McGregor Museum,8794
+2022-05-17 15:03:14.789579168,William Humphreys Art Gallery,4069
+2022-05-17 15:03:14.789579168,Magersfontein Battlefield,4972
+2022-05-17 15:03:14.789579168,Ghost Tours & Historical Walks,4554
+2022-05-20 13:19:21.523046096,Kimberley Museum,5169
+2022-05-20 13:19:21.523046096,McGregor Museum,3717
+2022-05-20 13:19:21.523046096,William Humphreys Art Gallery,7107
+2022-05-20 13:19:21.523046096,Magersfontein Battlefield,5457
+2022-05-20 13:19:21.523046096,Ghost Tours & Historical Walks,4739
+2022-05-23 11:35:28.256513024,Kimberley Museum,2980
+2022-05-23 11:35:28.256513024,McGregor Museum,5036
+2022-05-23 11:35:28.256513024,William Humphreys Art Gallery,7608
+2022-05-23 11:35:28.256513024,Magersfontein Battlefield,7393
+2022-05-23 11:35:28.256513024,Ghost Tours & Historical Walks,3617
+2022-05-26 09:51:34.989979968,Kimberley Museum,3651
+2022-05-26 09:51:34.989979968,McGregor Museum,6726
+2022-05-26 09:51:34.989979968,William Humphreys Art Gallery,6117
+2022-05-26 09:51:34.989979968,Magersfontein Battlefield,7842
+2022-05-26 09:51:34.989979968,Ghost Tours & Historical Walks,4890
+2022-05-29 08:07:41.723446896,Kimberley Museum,6124
+2022-05-29 08:07:41.723446896,McGregor Museum,3558
+2022-05-29 08:07:41.723446896,William Humphreys Art Gallery,7392
+2022-05-29 08:07:41.723446896,Magersfontein Battlefield,6178
+2022-05-29 08:07:41.723446896,Ghost Tours & Historical Walks,5221
+2022-06-01 06:23:48.456913824,Kimberley Museum,6130
+2022-06-01 06:23:48.456913824,McGregor Museum,6193
+2022-06-01 06:23:48.456913824,William Humphreys Art Gallery,2992
+2022-06-01 06:23:48.456913824,Magersfontein Battlefield,6131
+2022-06-01 06:23:48.456913824,Ghost Tours & Historical Walks,5729
+2022-06-04 04:39:55.190380768,Kimberley Museum,6261
+2022-06-04 04:39:55.190380768,McGregor Museum,3621
+2022-06-04 04:39:55.190380768,William Humphreys Art Gallery,4401
+2022-06-04 04:39:55.190380768,Magersfontein Battlefield,3707
+2022-06-04 04:39:55.190380768,Ghost Tours & Historical Walks,5957
+2022-06-07 02:56:01.923847696,Kimberley Museum,7487
+2022-06-07 02:56:01.923847696,McGregor Museum,4179
+2022-06-07 02:56:01.923847696,William Humphreys Art Gallery,5903
+2022-06-07 02:56:01.923847696,Magersfontein Battlefield,5774
+2022-06-07 02:56:01.923847696,Ghost Tours & Historical Walks,4598
+2022-06-10 01:12:08.657314640,Kimberley Museum,3104
+2022-06-10 01:12:08.657314640,McGregor Museum,7183
+2022-06-10 01:12:08.657314640,William Humphreys Art Gallery,4898
+2022-06-10 01:12:08.657314640,Magersfontein Battlefield,4084
+2022-06-10 01:12:08.657314640,Ghost Tours & Historical Walks,7139
+2022-06-12 23:28:15.390781568,Kimberley Museum,3203
+2022-06-12 23:28:15.390781568,McGregor Museum,6010
+2022-06-12 23:28:15.390781568,William Humphreys Art Gallery,4313
+2022-06-12 23:28:15.390781568,Magersfontein Battlefield,4510
+2022-06-12 23:28:15.390781568,Ghost Tours & Historical Walks,7038
+2022-06-15 21:44:22.124248496,Kimberley Museum,6923
+2022-06-15 21:44:22.124248496,McGregor Museum,7063
+2022-06-15 21:44:22.124248496,William Humphreys Art Gallery,3115
+2022-06-15 21:44:22.124248496,Magersfontein Battlefield,5973
+2022-06-15 21:44:22.124248496,Ghost Tours & Historical Walks,4531
+2022-06-18 20:00:28.857715440,Kimberley Museum,3889
+2022-06-18 20:00:28.857715440,McGregor Museum,3847
+2022-06-18 20:00:28.857715440,William Humphreys Art Gallery,5293
+2022-06-18 20:00:28.857715440,Magersfontein Battlefield,5102
+2022-06-18 20:00:28.857715440,Ghost Tours & Historical Walks,4595
+2022-06-21 18:16:35.591182368,Kimberley Museum,7666
+2022-06-21 18:16:35.591182368,McGregor Museum,5943
+2022-06-21 18:16:35.591182368,William Humphreys Art Gallery,4963
+2022-06-21 18:16:35.591182368,Magersfontein Battlefield,3917
+2022-06-21 18:16:35.591182368,Ghost Tours & Historical Walks,4091
+2022-06-24 16:32:42.324649296,Kimberley Museum,3004
+2022-06-24 16:32:42.324649296,McGregor Museum,3272
+2022-06-24 16:32:42.324649296,William Humphreys Art Gallery,6246
+2022-06-24 16:32:42.324649296,Magersfontein Battlefield,6418
+2022-06-24 16:32:42.324649296,Ghost Tours & Historical Walks,2457
+2022-06-27 14:48:49.058116240,Kimberley Museum,5745
+2022-06-27 14:48:49.058116240,McGregor Museum,4512
+2022-06-27 14:48:49.058116240,William Humphreys Art Gallery,4491
+2022-06-27 14:48:49.058116240,Magersfontein Battlefield,4914
+2022-06-27 14:48:49.058116240,Ghost Tours & Historical Walks,2142
+2022-06-30 13:04:55.791583168,Kimberley Museum,5357
+2022-06-30 13:04:55.791583168,McGregor Museum,1212
+2022-06-30 13:04:55.791583168,William Humphreys Art Gallery,6432
+2022-06-30 13:04:55.791583168,Magersfontein Battlefield,8183
+2022-06-30 13:04:55.791583168,Ghost Tours & Historical Walks,3814
+2022-07-03 11:21:02.525050096,Kimberley Museum,6886
+2022-07-03 11:21:02.525050096,McGregor Museum,4782
+2022-07-03 11:21:02.525050096,William Humphreys Art Gallery,4588
+2022-07-03 11:21:02.525050096,Magersfontein Battlefield,5880
+2022-07-03 11:21:02.525050096,Ghost Tours & Historical Walks,5604
+2022-07-06 09:37:09.258517040,Kimberley Museum,5152
+2022-07-06 09:37:09.258517040,McGregor Museum,3376
+2022-07-06 09:37:09.258517040,William Humphreys Art Gallery,6484
+2022-07-06 09:37:09.258517040,Magersfontein Battlefield,4641
+2022-07-06 09:37:09.258517040,Ghost Tours & Historical Walks,4226
+2022-07-09 07:53:15.991983968,Kimberley Museum,4315
+2022-07-09 07:53:15.991983968,McGregor Museum,5202
+2022-07-09 07:53:15.991983968,William Humphreys Art Gallery,5342
+2022-07-09 07:53:15.991983968,Magersfontein Battlefield,5725
+2022-07-09 07:53:15.991983968,Ghost Tours & Historical Walks,4594
+2022-07-12 06:09:22.725450912,Kimberley Museum,5458
+2022-07-12 06:09:22.725450912,McGregor Museum,9823
+2022-07-12 06:09:22.725450912,William Humphreys Art Gallery,5532
+2022-07-12 06:09:22.725450912,Magersfontein Battlefield,7271
+2022-07-12 06:09:22.725450912,Ghost Tours & Historical Walks,7645
+2022-07-15 04:25:29.458917840,Kimberley Museum,4334
+2022-07-15 04:25:29.458917840,McGregor Museum,4326
+2022-07-15 04:25:29.458917840,William Humphreys Art Gallery,5758
+2022-07-15 04:25:29.458917840,Magersfontein Battlefield,4992
+2022-07-15 04:25:29.458917840,Ghost Tours & Historical Walks,1814
+2022-07-18 02:41:36.192384768,Kimberley Museum,1125
+2022-07-18 02:41:36.192384768,McGregor Museum,4563
+2022-07-18 02:41:36.192384768,William Humphreys Art Gallery,5175
+2022-07-18 02:41:36.192384768,Magersfontein Battlefield,5638
+2022-07-18 02:41:36.192384768,Ghost Tours & Historical Walks,5768
+2022-07-21 00:57:42.925851712,Kimberley Museum,5136
+2022-07-21 00:57:42.925851712,McGregor Museum,2139
+2022-07-21 00:57:42.925851712,William Humphreys Art Gallery,2901
+2022-07-21 00:57:42.925851712,Magersfontein Battlefield,5540
+2022-07-21 00:57:42.925851712,Ghost Tours & Historical Walks,6459
+2022-07-23 23:13:49.659318640,Kimberley Museum,6904
+2022-07-23 23:13:49.659318640,McGregor Museum,7689
+2022-07-23 23:13:49.659318640,William Humphreys Art Gallery,5521
+2022-07-23 23:13:49.659318640,Magersfontein Battlefield,5241
+2022-07-23 23:13:49.659318640,Ghost Tours & Historical Walks,5660
+2022-07-26 21:29:56.392785568,Kimberley Museum,5346
+2022-07-26 21:29:56.392785568,McGregor Museum,6010
+2022-07-26 21:29:56.392785568,William Humphreys Art Gallery,7038
+2022-07-26 21:29:56.392785568,Magersfontein Battlefield,6608
+2022-07-26 21:29:56.392785568,Ghost Tours & Historical Walks,4592
+2022-07-29 19:46:03.126252512,Kimberley Museum,2653
+2022-07-29 19:46:03.126252512,McGregor Museum,4403
+2022-07-29 19:46:03.126252512,William Humphreys Art Gallery,4434
+2022-07-29 19:46:03.126252512,Magersfontein Battlefield,5899
+2022-07-29 19:46:03.126252512,Ghost Tours & Historical Walks,3778
+2022-08-01 18:02:09.859719440,Kimberley Museum,4880
+2022-08-01 18:02:09.859719440,McGregor Museum,7314
+2022-08-01 18:02:09.859719440,William Humphreys Art Gallery,1749
+2022-08-01 18:02:09.859719440,Magersfontein Battlefield,5640
+2022-08-01 18:02:09.859719440,Ghost Tours & Historical Walks,7371
+2022-08-04 16:18:16.593186368,Kimberley Museum,5311
+2022-08-04 16:18:16.593186368,McGregor Museum,3513
+2022-08-04 16:18:16.593186368,William Humphreys Art Gallery,5962
+2022-08-04 16:18:16.593186368,Magersfontein Battlefield,4657
+2022-08-04 16:18:16.593186368,Ghost Tours & Historical Walks,1819
+2022-08-07 14:34:23.326653312,Kimberley Museum,7579
+2022-08-07 14:34:23.326653312,McGregor Museum,4662
+2022-08-07 14:34:23.326653312,William Humphreys Art Gallery,4412
+2022-08-07 14:34:23.326653312,Magersfontein Battlefield,3997
+2022-08-07 14:34:23.326653312,Ghost Tours & Historical Walks,6123
+2022-08-10 12:50:30.060120240,Kimberley Museum,4942
+2022-08-10 12:50:30.060120240,McGregor Museum,5051
+2022-08-10 12:50:30.060120240,William Humphreys Art Gallery,4251
+2022-08-10 12:50:30.060120240,Magersfontein Battlefield,5351
+2022-08-10 12:50:30.060120240,Ghost Tours & Historical Walks,5179
+2022-08-13 11:06:36.793587184,Kimberley Museum,2133
+2022-08-13 11:06:36.793587184,McGregor Museum,6762
+2022-08-13 11:06:36.793587184,William Humphreys Art Gallery,6908
+2022-08-13 11:06:36.793587184,Magersfontein Battlefield,4619
+2022-08-13 11:06:36.793587184,Ghost Tours & Historical Walks,5045
+2022-08-16 09:22:43.527054112,Kimberley Museum,7361
+2022-08-16 09:22:43.527054112,McGregor Museum,4396
+2022-08-16 09:22:43.527054112,William Humphreys Art Gallery,6396
+2022-08-16 09:22:43.527054112,Magersfontein Battlefield,3921
+2022-08-16 09:22:43.527054112,Ghost Tours & Historical Walks,-166
+2022-08-19 07:38:50.260521040,Kimberley Museum,2814
+2022-08-19 07:38:50.260521040,McGregor Museum,6468
+2022-08-19 07:38:50.260521040,William Humphreys Art Gallery,5939
+2022-08-19 07:38:50.260521040,Magersfontein Battlefield,6027
+2022-08-19 07:38:50.260521040,Ghost Tours & Historical Walks,7452
+2022-08-22 05:54:56.993987984,Kimberley Museum,1766
+2022-08-22 05:54:56.993987984,McGregor Museum,4599
+2022-08-22 05:54:56.993987984,William Humphreys Art Gallery,4775
+2022-08-22 05:54:56.993987984,Magersfontein Battlefield,1121
+2022-08-22 05:54:56.993987984,Ghost Tours & Historical Walks,3634
+2022-08-25 04:11:03.727454912,Kimberley Museum,4658
+2022-08-25 04:11:03.727454912,McGregor Museum,4306
+2022-08-25 04:11:03.727454912,William Humphreys Art Gallery,4274
+2022-08-25 04:11:03.727454912,Magersfontein Battlefield,4121
+2022-08-25 04:11:03.727454912,Ghost Tours & Historical Walks,7928
+2022-08-28 02:27:10.460921840,Kimberley Museum,4685
+2022-08-28 02:27:10.460921840,McGregor Museum,3167
+2022-08-28 02:27:10.460921840,William Humphreys Art Gallery,4204
+2022-08-28 02:27:10.460921840,Magersfontein Battlefield,5244
+2022-08-28 02:27:10.460921840,Ghost Tours & Historical Walks,6580
+2022-08-31 00:43:17.194388784,Kimberley Museum,5643
+2022-08-31 00:43:17.194388784,McGregor Museum,3232
+2022-08-31 00:43:17.194388784,William Humphreys Art Gallery,5851
+2022-08-31 00:43:17.194388784,Magersfontein Battlefield,4449
+2022-08-31 00:43:17.194388784,Ghost Tours & Historical Walks,2736
+2022-09-02 22:59:23.927855712,Kimberley Museum,4566
+2022-09-02 22:59:23.927855712,McGregor Museum,5349
+2022-09-02 22:59:23.927855712,William Humphreys Art Gallery,3954
+2022-09-02 22:59:23.927855712,Magersfontein Battlefield,5968
+2022-09-02 22:59:23.927855712,Ghost Tours & Historical Walks,5780
+2022-09-05 21:15:30.661322656,Kimberley Museum,4274
+2022-09-05 21:15:30.661322656,McGregor Museum,6488
+2022-09-05 21:15:30.661322656,William Humphreys Art Gallery,6873
+2022-09-05 21:15:30.661322656,Magersfontein Battlefield,4548
+2022-09-05 21:15:30.661322656,Ghost Tours & Historical Walks,7366
+2022-09-08 19:31:37.394789584,Kimberley Museum,5549
+2022-09-08 19:31:37.394789584,McGregor Museum,6339
+2022-09-08 19:31:37.394789584,William Humphreys Art Gallery,3422
+2022-09-08 19:31:37.394789584,Magersfontein Battlefield,5164
+2022-09-08 19:31:37.394789584,Ghost Tours & Historical Walks,5430
+2022-09-11 17:47:44.128256512,Kimberley Museum,5580
+2022-09-11 17:47:44.128256512,McGregor Museum,2337
+2022-09-11 17:47:44.128256512,William Humphreys Art Gallery,4233
+2022-09-11 17:47:44.128256512,Magersfontein Battlefield,7613
+2022-09-11 17:47:44.128256512,Ghost Tours & Historical Walks,1199
+2022-09-14 16:03:50.861723456,Kimberley Museum,5812
+2022-09-14 16:03:50.861723456,McGregor Museum,8340
+2022-09-14 16:03:50.861723456,William Humphreys Art Gallery,5680
+2022-09-14 16:03:50.861723456,Magersfontein Battlefield,4769
+2022-09-14 16:03:50.861723456,Ghost Tours & Historical Walks,4969
+2022-09-17 14:19:57.595190384,Kimberley Museum,5078
+2022-09-17 14:19:57.595190384,McGregor Museum,5531
+2022-09-17 14:19:57.595190384,William Humphreys Art Gallery,2862
+2022-09-17 14:19:57.595190384,Magersfontein Battlefield,3316
+2022-09-17 14:19:57.595190384,Ghost Tours & Historical Walks,4044
+2022-09-20 12:36:04.328657312,Kimberley Museum,2734
+2022-09-20 12:36:04.328657312,McGregor Museum,6302
+2022-09-20 12:36:04.328657312,William Humphreys Art Gallery,1044
+2022-09-20 12:36:04.328657312,Magersfontein Battlefield,3348
+2022-09-20 12:36:04.328657312,Ghost Tours & Historical Walks,3801
+2022-09-23 10:52:11.062124256,Kimberley Museum,2663
+2022-09-23 10:52:11.062124256,McGregor Museum,5071
+2022-09-23 10:52:11.062124256,William Humphreys Art Gallery,3675
+2022-09-23 10:52:11.062124256,Magersfontein Battlefield,2578
+2022-09-23 10:52:11.062124256,Ghost Tours & Historical Walks,1073
+2022-09-26 09:08:17.795591184,Kimberley Museum,2383
+2022-09-26 09:08:17.795591184,McGregor Museum,6059
+2022-09-26 09:08:17.795591184,William Humphreys Art Gallery,5733
+2022-09-26 09:08:17.795591184,Magersfontein Battlefield,4990
+2022-09-26 09:08:17.795591184,Ghost Tours & Historical Walks,7671
+2022-09-29 07:24:24.529058112,Kimberley Museum,4786
+2022-09-29 07:24:24.529058112,McGregor Museum,4665
+2022-09-29 07:24:24.529058112,William Humphreys Art Gallery,4405
+2022-09-29 07:24:24.529058112,Magersfontein Battlefield,7186
+2022-09-29 07:24:24.529058112,Ghost Tours & Historical Walks,6175
+2022-10-02 05:40:31.262525056,Kimberley Museum,6761
+2022-10-02 05:40:31.262525056,McGregor Museum,4030
+2022-10-02 05:40:31.262525056,William Humphreys Art Gallery,4554
+2022-10-02 05:40:31.262525056,Magersfontein Battlefield,5315
+2022-10-02 05:40:31.262525056,Ghost Tours & Historical Walks,5577
+2022-10-05 03:56:37.995991984,Kimberley Museum,5289
+2022-10-05 03:56:37.995991984,McGregor Museum,5048
+2022-10-05 03:56:37.995991984,William Humphreys Art Gallery,4795
+2022-10-05 03:56:37.995991984,Magersfontein Battlefield,5518
+2022-10-05 03:56:37.995991984,Ghost Tours & Historical Walks,4085
+2022-10-08 02:12:44.729458928,Kimberley Museum,3973
+2022-10-08 02:12:44.729458928,McGregor Museum,1137
+2022-10-08 02:12:44.729458928,William Humphreys Art Gallery,3370
+2022-10-08 02:12:44.729458928,Magersfontein Battlefield,4799
+2022-10-08 02:12:44.729458928,Ghost Tours & Historical Walks,1189
+2022-10-11 00:28:51.462925856,Kimberley Museum,5309
+2022-10-11 00:28:51.462925856,McGregor Museum,7586
+2022-10-11 00:28:51.462925856,William Humphreys Art Gallery,3980
+2022-10-11 00:28:51.462925856,Magersfontein Battlefield,4425
+2022-10-11 00:28:51.462925856,Ghost Tours & Historical Walks,4078
+2022-10-13 22:44:58.196392784,Kimberley Museum,2323
+2022-10-13 22:44:58.196392784,McGregor Museum,3523
+2022-10-13 22:44:58.196392784,William Humphreys Art Gallery,6533
+2022-10-13 22:44:58.196392784,Magersfontein Battlefield,5944
+2022-10-13 22:44:58.196392784,Ghost Tours & Historical Walks,2678
+2022-10-16 21:01:04.929859728,Kimberley Museum,4711
+2022-10-16 21:01:04.929859728,McGregor Museum,5222
+2022-10-16 21:01:04.929859728,William Humphreys Art Gallery,4352
+2022-10-16 21:01:04.929859728,Magersfontein Battlefield,7414
+2022-10-16 21:01:04.929859728,Ghost Tours & Historical Walks,6791
+2022-10-19 19:17:11.663326656,Kimberley Museum,2454
+2022-10-19 19:17:11.663326656,McGregor Museum,5666
+2022-10-19 19:17:11.663326656,William Humphreys Art Gallery,4800
+2022-10-19 19:17:11.663326656,Magersfontein Battlefield,4806
+2022-10-19 19:17:11.663326656,Ghost Tours & Historical Walks,7882
+2022-10-22 17:33:18.396793584,Kimberley Museum,6281
+2022-10-22 17:33:18.396793584,McGregor Museum,5768
+2022-10-22 17:33:18.396793584,William Humphreys Art Gallery,7511
+2022-10-22 17:33:18.396793584,Magersfontein Battlefield,5684
+2022-10-22 17:33:18.396793584,Ghost Tours & Historical Walks,4685
+2022-10-25 15:49:25.130260528,Kimberley Museum,2371
+2022-10-25 15:49:25.130260528,McGregor Museum,4254
+2022-10-25 15:49:25.130260528,William Humphreys Art Gallery,4516
+2022-10-25 15:49:25.130260528,Magersfontein Battlefield,2693
+2022-10-25 15:49:25.130260528,Ghost Tours & Historical Walks,6095
+2022-10-28 14:05:31.863727456,Kimberley Museum,3741
+2022-10-28 14:05:31.863727456,McGregor Museum,4854
+2022-10-28 14:05:31.863727456,William Humphreys Art Gallery,5817
+2022-10-28 14:05:31.863727456,Magersfontein Battlefield,3884
+2022-10-28 14:05:31.863727456,Ghost Tours & Historical Walks,6763
+2022-10-31 12:21:38.597194400,Kimberley Museum,4546
+2022-10-31 12:21:38.597194400,McGregor Museum,5463
+2022-10-31 12:21:38.597194400,William Humphreys Art Gallery,6041
+2022-10-31 12:21:38.597194400,Magersfontein Battlefield,4009
+2022-10-31 12:21:38.597194400,Ghost Tours & Historical Walks,5632
+2022-11-03 10:37:45.330661328,Kimberley Museum,4369
+2022-11-03 10:37:45.330661328,McGregor Museum,4660
+2022-11-03 10:37:45.330661328,William Humphreys Art Gallery,3698
+2022-11-03 10:37:45.330661328,Magersfontein Battlefield,3563
+2022-11-03 10:37:45.330661328,Ghost Tours & Historical Walks,5181
+2022-11-06 08:53:52.064128256,Kimberley Museum,4395
+2022-11-06 08:53:52.064128256,McGregor Museum,6958
+2022-11-06 08:53:52.064128256,William Humphreys Art Gallery,4672
+2022-11-06 08:53:52.064128256,Magersfontein Battlefield,5124
+2022-11-06 08:53:52.064128256,Ghost Tours & Historical Walks,5733
+2022-11-09 07:09:58.797595200,Kimberley Museum,6187
+2022-11-09 07:09:58.797595200,McGregor Museum,7028
+2022-11-09 07:09:58.797595200,William Humphreys Art Gallery,6151
+2022-11-09 07:09:58.797595200,Magersfontein Battlefield,6051
+2022-11-09 07:09:58.797595200,Ghost Tours & Historical Walks,3588
+2022-11-12 05:26:05.531062128,Kimberley Museum,5747
+2022-11-12 05:26:05.531062128,McGregor Museum,6291
+2022-11-12 05:26:05.531062128,William Humphreys Art Gallery,6017
+2022-11-12 05:26:05.531062128,Magersfontein Battlefield,5678
+2022-11-12 05:26:05.531062128,Ghost Tours & Historical Walks,7149
+2022-11-15 03:42:12.264529056,Kimberley Museum,3567
+2022-11-15 03:42:12.264529056,McGregor Museum,4684
+2022-11-15 03:42:12.264529056,William Humphreys Art Gallery,7741
+2022-11-15 03:42:12.264529056,Magersfontein Battlefield,3365
+2022-11-15 03:42:12.264529056,Ghost Tours & Historical Walks,7090
+2022-11-18 01:58:18.997996000,Kimberley Museum,3809
+2022-11-18 01:58:18.997996000,McGregor Museum,3218
+2022-11-18 01:58:18.997996000,William Humphreys Art Gallery,3852
+2022-11-18 01:58:18.997996000,Magersfontein Battlefield,3959
+2022-11-18 01:58:18.997996000,Ghost Tours & Historical Walks,4604
+2022-11-21 00:14:25.731462928,Kimberley Museum,5922
+2022-11-21 00:14:25.731462928,McGregor Museum,4805
+2022-11-21 00:14:25.731462928,William Humphreys Art Gallery,3613
+2022-11-21 00:14:25.731462928,Magersfontein Battlefield,6145
+2022-11-21 00:14:25.731462928,Ghost Tours & Historical Walks,5525
+2022-11-23 22:30:32.464929856,Kimberley Museum,2962
+2022-11-23 22:30:32.464929856,McGregor Museum,1755
+2022-11-23 22:30:32.464929856,William Humphreys Art Gallery,5346
+2022-11-23 22:30:32.464929856,Magersfontein Battlefield,5179
+2022-11-23 22:30:32.464929856,Ghost Tours & Historical Walks,3622
+2022-11-26 20:46:39.198396800,Kimberley Museum,2199
+2022-11-26 20:46:39.198396800,McGregor Museum,7838
+2022-11-26 20:46:39.198396800,William Humphreys Art Gallery,5666
+2022-11-26 20:46:39.198396800,Magersfontein Battlefield,3571
+2022-11-26 20:46:39.198396800,Ghost Tours & Historical Walks,6546
+2022-11-29 19:02:45.931863728,Kimberley Museum,1440
+2022-11-29 19:02:45.931863728,McGregor Museum,5391
+2022-11-29 19:02:45.931863728,William Humphreys Art Gallery,5672
+2022-11-29 19:02:45.931863728,Magersfontein Battlefield,3818
+2022-11-29 19:02:45.931863728,Ghost Tours & Historical Walks,4991
+2022-12-02 17:18:52.665330672,Kimberley Museum,4231
+2022-12-02 17:18:52.665330672,McGregor Museum,6279
+2022-12-02 17:18:52.665330672,William Humphreys Art Gallery,4747
+2022-12-02 17:18:52.665330672,Magersfontein Battlefield,7455
+2022-12-02 17:18:52.665330672,Ghost Tours & Historical Walks,6537
+2022-12-05 15:34:59.398797600,Kimberley Museum,5913
+2022-12-05 15:34:59.398797600,McGregor Museum,4726
+2022-12-05 15:34:59.398797600,William Humphreys Art Gallery,5657
+2022-12-05 15:34:59.398797600,Magersfontein Battlefield,5754
+2022-12-05 15:34:59.398797600,Ghost Tours & Historical Walks,4627
+2022-12-08 13:51:06.132264528,Kimberley Museum,2567
+2022-12-08 13:51:06.132264528,McGregor Museum,1513
+2022-12-08 13:51:06.132264528,William Humphreys Art Gallery,5007
+2022-12-08 13:51:06.132264528,Magersfontein Battlefield,7365
+2022-12-08 13:51:06.132264528,Ghost Tours & Historical Walks,5841
+2022-12-11 12:07:12.865731472,Kimberley Museum,5298
+2022-12-11 12:07:12.865731472,McGregor Museum,3065
+2022-12-11 12:07:12.865731472,William Humphreys Art Gallery,6434
+2022-12-11 12:07:12.865731472,Magersfontein Battlefield,5474
+2022-12-11 12:07:12.865731472,Ghost Tours & Historical Walks,4758
+2022-12-14 10:23:19.599198400,Kimberley Museum,7368
+2022-12-14 10:23:19.599198400,McGregor Museum,6665
+2022-12-14 10:23:19.599198400,William Humphreys Art Gallery,5938
+2022-12-14 10:23:19.599198400,Magersfontein Battlefield,1755
+2022-12-14 10:23:19.599198400,Ghost Tours & Historical Walks,6755
+2022-12-17 08:39:26.332665328,Kimberley Museum,5367
+2022-12-17 08:39:26.332665328,McGregor Museum,5478
+2022-12-17 08:39:26.332665328,William Humphreys Art Gallery,3346
+2022-12-17 08:39:26.332665328,Magersfontein Battlefield,3632
+2022-12-17 08:39:26.332665328,Ghost Tours & Historical Walks,4337
+2022-12-20 06:55:33.066132272,Kimberley Museum,4693
+2022-12-20 06:55:33.066132272,McGregor Museum,5245
+2022-12-20 06:55:33.066132272,William Humphreys Art Gallery,4105
+2022-12-20 06:55:33.066132272,Magersfontein Battlefield,4542
+2022-12-20 06:55:33.066132272,Ghost Tours & Historical Walks,5238
+2022-12-23 05:11:39.799599200,Kimberley Museum,6133
+2022-12-23 05:11:39.799599200,McGregor Museum,4343
+2022-12-23 05:11:39.799599200,William Humphreys Art Gallery,6428
+2022-12-23 05:11:39.799599200,Magersfontein Battlefield,1902
+2022-12-23 05:11:39.799599200,Ghost Tours & Historical Walks,3989
+2022-12-26 03:27:46.533066128,Kimberley Museum,3993
+2022-12-26 03:27:46.533066128,McGregor Museum,7210
+2022-12-26 03:27:46.533066128,William Humphreys Art Gallery,2968
+2022-12-26 03:27:46.533066128,Magersfontein Battlefield,5744
+2022-12-26 03:27:46.533066128,Ghost Tours & Historical Walks,6219
+2022-12-29 01:43:53.266533072,Kimberley Museum,2288
+2022-12-29 01:43:53.266533072,McGregor Museum,7584
+2022-12-29 01:43:53.266533072,William Humphreys Art Gallery,6453
+2022-12-29 01:43:53.266533072,Magersfontein Battlefield,2583
+2022-12-29 01:43:53.266533072,Ghost Tours & Historical Walks,5356
+2023-01-01 00:00:00.000000000,Kimberley Museum,3405
+2023-01-01 00:00:00.000000000,McGregor Museum,5090
+2023-01-01 00:00:00.000000000,William Humphreys Art Gallery,4292
+2023-01-01 00:00:00.000000000,Magersfontein Battlefield,5294
+2023-01-01 00:00:00.000000000,Ghost Tours & Historical Walks,1135
