@@ -1,10 +1,10 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import Lasso
+from sklearn.ensemble import RandomForestRegressor
 import pickle
 from sklearn.metrics import mean_squared_error,mean_absolute_error
 
-data=pd.read_csv("ExamPractise/tourism.csv")
+data=pd.read_csv("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/ExamPractise/tourism.csv")
 print(data.head())
 #Find missing values
 print("Missing values:")
@@ -29,7 +29,7 @@ target=target.values
 x_train,x_test,y_train,y_test=train_test_split(features, target,test_size=0.3)
 print(x_train.shape,x_test.shape)
 
-model=Lasso()
+model=RandomForestRegressor()
 model.fit(x_train,y_train)
 predictions=model.predict(x_test)
 mse=mean_squared_error(y_test,predictions)
