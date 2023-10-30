@@ -23,7 +23,7 @@ jobs:
           python File.py
       - name: CML-Results-Step
         env:
-          REPO_TOKEN: ${{secrets.GUTHUB_TOKEN}}
+          REPO_TOKEN: ${{secrets.GITHUB_TOKEN}}
         run: |
           echo "#Results">report.md
           cat results.txt>>report.md
