@@ -1,6 +1,6 @@
 name: ExamYaml
 on:
-  push
+  push:
     branches:
       - random_forest_experiment
 permissions:
