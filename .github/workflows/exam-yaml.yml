@@ -1,8 +1,8 @@
 name: ExamYaml
-  on:
-    push:
-      branches:
-        - lasso_experiment
+on:
+  push:
+    branches:
+      - lasso_experiment
 permissions:
   id-token: write
   contents: write
