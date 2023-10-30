@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestRegressor
 import pickle
 from sklearn.metrics import mean_squared_error,mean_absolute_error
 
-data=pd.read_csv("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/ExamPractise/tourism.csv")
+data=pd.read_csv("tourism.csv")
 print(data.head())
 #Find missing values
 print("Missing values:")
@@ -40,5 +40,5 @@ with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/
     f.write(f"Mean-Squared Error: {mse} \nMean Absolute Error: {mae}")
 with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/ExamPractise/Model.pkl","wb") as f:
     pickle.dump(model,f)
-    
+
 
