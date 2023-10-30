@@ -26,5 +26,5 @@ jobs:
           REPO_TOKEN: ${{secrets.GUTHUB_TOKEN}}
         run: |
           echo "#Results">report.md
-          cat reults.txt>>report.md
+          cat results.txt>>report.md
           cml comment create report.md
