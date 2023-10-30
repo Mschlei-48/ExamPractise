@@ -4,7 +4,7 @@ from sklearn.linear_model import Lasso
 import pickle
 from sklearn.metrics import mean_squared_error,mean_absolute_error
 
-data=pd.read_csv("ExamPractise/tourism.csv")
+data=pd.read_csv("tourism.csv")
 print(data.head())
 #Find missing values
 print("Missing values:")
@@ -35,8 +35,8 @@ predictions=model.predict(x_test)
 mse=mean_squared_error(y_test,predictions)
 mae=mean_absolute_error(y_test,predictions)
 
-with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/results.txt","w") as f:
+with open("results.txt","w") as f:
     f.write(f"Mean-Squared Error: {mse} \nMean Absolute Error: {mae}")
-with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/Model.pkl","wb") as f:
+with open("Model.pkl","wb") as f:
     pickle.dump(model,f)
 
