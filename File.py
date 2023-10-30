@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 import pickle
 from sklearn.metrics import mean_squared_error,mean_absolute_error
 
-data=pd.read_csv("ExamPractise/tourism.csv")
+data=pd.read_csv("tourism.csv")
 print(data.head())
 #Find missing values
 print("Missing values:")
