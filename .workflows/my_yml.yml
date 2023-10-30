@@ -2,7 +2,7 @@ name: ExamYaml
 on:
   push
     branches:
-      - main
+      - random_forest_experiment
 permissions:
   id-token: write
   contents: write

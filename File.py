@@ -40,4 +40,5 @@ with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/
     f.write(f"Mean-Squared Error: {mse} \nMean Absolute Error: {mae}")
 with open("C:/Users/Student/Desktop/Honours/Second-Semester/SpecialTopics/Exams/ExamPractise/ExamPractise/Model.pkl","wb") as f:
     pickle.dump(model,f)
+    
 
